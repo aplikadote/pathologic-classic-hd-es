@@ -1,4 +1,4 @@
-# pathologic-classic-hd-es
+# Descripción
 Traducción al español del juego Pathologic Classic HD
 
 # Instrucciones
