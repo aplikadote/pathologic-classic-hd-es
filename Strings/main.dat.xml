@@ -136,7 +136,7 @@
 <string id="500383"><![CDATA[¡Bienvenido! ¡Bienvenido, querido invitado! ¡Dale algo de beber al hombre, déjalo comer algo y siéntalo cómodamente! ¡Muestre algo de respeto a nuestros huéspedes de la gran ciudad! Y no lo dejes salir hasta que yo diga lo contrario.]]></string>
 <string id="500384"><![CDATA[Suficiente.]]></string>
 <string id="500385"><![CDATA[¿Dónde estoy?]]></string>
-<string id="500386"><![CDATA[No puedo decir que me interesen tus tazas.]]></string>
+<string id="500386"><![CDATA[No puedo decir que me interesen tus maleantes.]]></string>
 <string id="500387"><![CDATA[¿Quieres jugar a las cartas? ¿Dado? Lo que está en juego no es una gran ciudad, pero el juego es bastante valiente.]]></string>
 <string id="500388"><![CDATA[¿No es obvio? ¡La hermandad de los ladrones, ahí es donde estás! Ahora tienes dos opciones: cenar en el infierno, con nosotros; o huir como el infierno—de nosotros.]]></string>
 <string id="500389"><![CDATA[No somos dinero fácil para que todos los idiotas nos amen. No se preocupe por nuestras tazas, sino por su alma, amable señor. Demasiada seguridad en uno mismo puede ser fatal. ¿No tienes miedo?]]></string>
@@ -2476,7 +2476,7 @@ Necesito encontrar el enfoque más fructífero. Simon es un hombre muy respetado
 <string id="509612"><![CDATA[En cierto modo.]]></string>
 <string id="509613"><![CDATA[Obviamente he hecho el trabajo que nadie más haría.]]></string>
 <string id="509614"><![CDATA[]]></string>
-<string id="509615"><![CDATA[Entonces Doc, ¿los fiambres de ayer lo visitan mientras duerme?]]></string>
+<string id="509615"><![CDATA[Entonces Doc, ¿los muertitos de ayer lo visitan mientras duerme?]]></string>
 <string id="509616"><![CDATA[Duermo como un tronco y nunca sueño.]]></string>
 <string id="509617"><![CDATA[Así es como va nuestra maldita vida, ¿eh? Pecas y pecas… Vives toda una vida burlándote del diablo, pero ¿cuando se trata de la muerte? No lo ahuyentarás con un cuchillo, no lo harás. Así es como funciona, Doc.]]></string>
 <string id="509618"><![CDATA[Tristeza, necesito un almacén grande. Como ese con el gran techo semicircular.]]></string>
@@ -2500,7 +2500,7 @@ Necesito encontrar el enfoque más fructífero. Simon es un hombre muy respetado
 <string id="509636"><![CDATA[Entonces, vuelve a controlar a tus matones. Apuesto a que si escuchan este sermón tuyo, las calles se volverán más seguras de inmediato. Todo el mundo tiene que morir, eso no se puede discutir.]]></string>
 <string id="509637"><![CDATA[¿Sabes qué? Tiene razón, doctor. ¡Tienes inteligencia! Se lo diré, lo haré.]]></string>
 <string id="509638"><![CDATA[Atta buen chico.]]></string>
-<string id="509640"><![CDATA[Mañana lo haré, y había alguien que se parecía bastante a usted entre ellos.]]></string>
+<string id="509640"><![CDATA[Dormiré mañana, y dentro de esos muertitos habia uno bastante parecido a usted.]]></string>
 <string id="509649"><![CDATA[]]></string>
 <string id="509650"><![CDATA[¡El teatro está cerrado por orden suprema! Se acabó la temporada. La compañía se disolvió. Siga las novedades en las columnas de carteles.]]></string>
 <string id="509651"><![CDATA[¿Quién ordenó el cierre del Teatro?]]></string>
@@ -2862,7 +2862,7 @@ Necesito encontrar el enfoque más fructífero. Simon es un hombre muy respetado
 <string id="510104"><![CDATA[¿Hay agua disponible en algún otro lugar?]]></string>
 <string id="510105"><![CDATA[¡Hay otros edificios en la ciudad además de la propiedad residencial! ¡Son lo suficientemente espaciosos como para acomodar a muchas más personas!]]></string>
 <string id="510106"><![CDATA[¿Qué medidas se tomaron ayer?]]></string>
-<string id="510107"><![CDATA[Todo apesta a sabotaje. ]]></string>
+<string id="510107"><![CDATA[Esto no huele bien.]]></string>
 <string id="510108"><![CDATA[Estas palabras de escorbuto le costarían la vida a cualquiera menos a usted, estimado doctor. Mi gente y hasta mis familiares recorrieron todo el pueblo cayendo de cansancio. Algunos de ellos enfermaron y ahora están muriendo.]]></string>
 <string id="510109"><![CDATA[Pido disculpas por haber perdido los estribos.]]></string>
 <string id="510110"><![CDATA[¡Deberías haber comenzado con los lugares públicos! ¿Quién en el mundo piensa que un edificio residencial es un lugar adecuado para una sala de aislamiento? ¿Un hospital? ¡¿Una morgue?!]]></string>
@@ -2879,8 +2879,8 @@ Necesito encontrar el enfoque más fructífero. Simon es un hombre muy respetado
 <string id="510125"><![CDATA[Oh, vamos… Deja que los Kain te lo cuenten. Esto es absolutamente culpa de Víctor. ]]></string>
 <string id="510126"><![CDATA[Está bien, hablaré con Víctor. ]]></string>
 <string id="510127"><![CDATA[Siempre hay alguien a quien echarle la culpa.]]></string>
-<string id="510134"><![CDATA[Todo apesta a sabotaje, déjame decirte.]]></string>
-<string id="510135"><![CDATA[Estas palabras de escorbuto le costarían la vida a cualquiera menos a usted, estimado doctor. Mi gente y hasta mis familiares recorrieron todo el pueblo cayendo de cansancio. Algunos de ellos enfermaron y ahora están muriendo.]]></string>
+<string id="510134"><![CDATA[Esto no huele bien, dejeme decirle.]]></string>
+<string id="510135"><![CDATA[Esas insolencias le costarían la vida a cualquiera menos a usted, estimado doctor. Mi gente y hasta mis familiares recorrieron todo el pueblo cayendo de cansancio. Algunos de ellos enfermaron y ahora están muriendo.]]></string>
 <string id="510136"><![CDATA[Pido disculpas por haber perdido los estribos.]]></string>
 <string id="510137"><![CDATA[Deberías haber comenzado con los lugares públicos.]]></string>
 <string id="510138"><![CDATA[¿Qué pasa con el hospital?]]></string>
@@ -2888,13 +2888,13 @@ Necesito encontrar el enfoque más fructífero. Simon es un hombre muy respetado
 <string id="510140"><![CDATA[¿Qué? Hasta donde yo sé, Lara Ravel estaba planeando convertir su casa en un pequeño refugio para unas pocas docenas de personas, ¡y nada más!]]></string>
 <string id="510141"><![CDATA[Acordó tomar medidas urgentes. Usted sabe mejor que nadie lo rápido que se propaga la enfermedad. Demasiadas personas luchan por encontrar un refugio seguro.]]></string>
 <string id="510142"><![CDATA[¿Fue su propia decisión?]]></string>
-<string id="510143"><![CDATA[Una sala de aislamiento no es un refugio. Es un tanque de lodo para las personas que provienen de lugares extremadamente inseguros, lo que, dadas las circunstancias, básicamente significa para todos los que han estado al aire libre.]]></string>
+<string id="510143"><![CDATA[Un refugio no es una sala de aislamiento. Es un tanque de lodo para las personas que provienen de lugares extremadamente inseguros, lo que, dadas las circunstancias, básicamente significa para todos los que han estado al aire libre.]]></string>
 <string id="510144"><![CDATA[Hemos logrado llegar a un acuerdo. Cada persona tiene su propio punto doloroso. Cuando haces un esfuerzo por empujar un poco ese punto, bueno... inmediatamente se vuelven... obedientes.]]></string>
 <string id="510145"><![CDATA[Ojalá nadie haya sido privado de un techo sobre su cabeza, ¿verdad?]]></string>
 <string id="510146"><![CDATA[Por supuesto que no. No seríamos tan duros como para expulsar a la gente de sus hogares, incluso en caso de una emergencia. No se preocupe, doctor. No hay ni una sola alma viviendo en esa casa.]]></string>
 <string id="510147"><![CDATA[Obviamente no es una de las casas que fueron infectadas ayer, ¿verdad?]]></string>
 <string id="510148"><![CDATA[Bueno… En realidad, lo es. Sin embargo, hemos hecho una observación muy peculiar: hoy en estas casas no hay ni rastro de infección. Lo hemos aprendido por casualidad... gracias a los merodeadores. Acechan estos lugares sin ningún tipo de antibiótico. A Victor Kain le gustaría discutir este asunto con usted.]]></string>
-<string id="510149"><![CDATA[Bien. Que hará. Me comunicaré contigo después de examinar el lugar.]]></string>
+<string id="510149"><![CDATA[Bien. Será suficiente. Me comunicaré contigo después de examinar el lugar.]]></string>
 <string id="510150"><![CDATA[]]></string>
 <string id="510151"><![CDATA[Me alegra mucho que no te haya pasado nada malo ayer…]]></string>
 <string id="510152"><![CDATA[¿Es cierto que está planeando albergar una sala de aislamiento? ¿Te das cuenta de lo que implica?]]></string>
@@ -3337,7 +3337,7 @@ Necesito encontrar el enfoque más fructífero. Simon es un hombre muy respetado
 <string id="510808"><![CDATA[¿Estás diciendo lo que creo que estás diciendo?]]></string>
 <string id="510810"><![CDATA[Está bien. Tarde o temprano encontrarás un hombre que escuchará tu corazón.]]></string>
 <string id="510811"><![CDATA[¡Saludos, honorable doctor! Nuestro trabajo casi está terminado. ¿Estás satisfecho?]]></string>
-<string id="510812"><![CDATA[Depende de qué tan bien lo hayas hecho.]]></string>
+<string id="510812"><![CDATA[Depende de qué tan bien lo haya hecho.]]></string>
 <string id="510813"><![CDATA[]]></string>
 <string id="510814"><![CDATA[Una multitud ruda… exige medidas rudas. Sinceramente espero que no se te ocurra que estoy disfrutando esto.]]></string>
 <string id="510815"><![CDATA[¿Cómo es que no hay agua en el pueblo?]]></string>
@@ -3438,11 +3438,11 @@ Necesito encontrar el enfoque más fructífero. Simon es un hombre muy respetado
 <string id="510924"><![CDATA[Me alegra que hayamos llegado a un acuerdo.]]></string>
 <string id="510925"><![CDATA[¿Qué pasa con el hospital?]]></string>
 <string id="510926"><![CDATA[¿Hablar sobre los merodeadores? Exterminarlos es el deber de Saburov. Y parecía haber reclutado a todas las personas que pudieran empuñar un arma para el trabajo.]]></string>
-<string id="510927"><![CDATA[Examinaré las casas que usted ha arreglado. Si cumplen con unos requisitos sanitarios mínimos, adelante y empieza a dirigir a los enfermos hasta allí. Más tarde volveré aquí para informarles cuando sea el momento de anunciar la situación del hospital al público en general.]]></string>
+<string id="510927"><![CDATA[Examinaré las casas que usted ha arreglado. Si cumplen con los requisitos sanitarios mínimos, continue usted y comience a dirigir a los enfermos hasta allí. Más tarde volveré aquí para informarles cuando sea el momento de anunciar la situación del hospital al público en general.]]></string>
 <string id="510928"><![CDATA[…Esas serían las personas que podríamos utilizar para realizar trabajos sanitarios… No estoy menos molesto que tú. Pero no, Víctor quería hablar de los… distritos bloqueados. Parece tener grandes ideas al respecto y busca su consejo. ]]></string>
 <string id="510929"><![CDATA[Claro, hablaré con él. Simplemente no se apresure a utilizar las casas que ha preparado antes de que las examine. Necesito asegurarme de que todo cumpla con mis requisitos.]]></string>
 <string id="510930"><![CDATA[Parece estar equivocado, buen señor; No estoy molesto en absoluto. Apruebo la decisión de Saburov.]]></string>
-<string id="510931"><![CDATA[No teníamos muchas opciones, estimado Licenciado. Si considera que los resultados de nuestros esfuerzos son mediocres, no dude en tomar asiento y aspirar a mejorar. No tengo ningún deseo de escuchar estas... reprimendas en lugar de las bien merecidas palabras de elogio.]]></string>
+<string id="510931"><![CDATA[No teníamos muchas opciones, estimado Licenciado. Si considera que los resultados de nuestros esfuerzos son mediocres, no dude en tomar nuestro lugar y hacerlo mejor. No tengo ningún deseo de escuchar estas... reprimendas en lugar de las bien merecidas palabras de elogio.]]></string>
 <string id="510932"><![CDATA[Está bien. ¿Alguna objeción por parte de los habitantes actuales del futuro hospital?]]></string>
 <string id="510933"><![CDATA[¿Y esos edificios especiales tienen acceso a agua dulce?]]></string>
 <string id="510934"><![CDATA[La Catedral y el Teatro sí, reciben agua de manantial. Quizás te hayas fijado en las pequeñas fuentes que hay allí... El Ayuntamiento está conectado a la línea de suministro general... al igual que otros edificios. ]]></string>
@@ -3478,12 +3478,12 @@ Necesito encontrar el enfoque más fructífero. Simon es un hombre muy respetado
 <string id="510966"><![CDATA[Te avisaré cuando termine.]]></string>
 <string id="510967"><![CDATA[Ya veremos eso. No soy un asesino, ¿sabes? ]]></string>
 <string id="510969"><![CDATA[Necesito ese almacén.]]></string>
-<string id="510970"><![CDATA[Se acabó, Dolor. Tus antiguos amigos ya no existen.]]></string>
+<string id="510970"><![CDATA[Se acabó, Grief. Tus antiguos amigos ya no existen.]]></string>
 <string id="510971"><![CDATA[¡Eso es lo que yo llamo un trabajo bien hecho, Doc…! Me acordaré de no ponerme de tu lado malo.]]></string>
 <string id="510972"><![CDATA[Bien. Los mataré. Continúe y estudie mi modus operandi. Quizás entonces lo sepas mejor.]]></string>
 <string id="510973"><![CDATA[Me prometiste algo.]]></string>
 <string id="510974"><![CDATA[Mi palabra es sólida, lo es. Prometí colmarte de regalos, así que lo haré. Aquí están el dinero.]]></string>
-<string id="510975"><![CDATA[No te aflijas por ello, Dolor. Su dinero volverá a usted en poco tiempo.]]></string>
+<string id="510975"><![CDATA[No te aflijas por ello, Grief. Su dinero volverá a usted en poco tiempo.]]></string>
 <string id="510976"><![CDATA[Salud.]]></string>
 <string id="510977"><![CDATA[¿Cómo te lo imaginas? Si cualquier vagabundo pudiera venir aquí y vivir en tu casa por un día… ¡arrastraría la infección con él!]]></string>
 <string id="510978"><![CDATA[Un día es demasiado. Los síntomas de la plaga de arena no tardan mucho en hacerse evidentes, por lo que muy pocas personas realmente infectadas podrán llegar a este lugar. Dicen que es rápido como una quemadura.]]></string>
@@ -3597,7 +3597,7 @@ Necesito encontrar el enfoque más fructífero. Simon es un hombre muy respetado
 <string id="511094"><![CDATA[No es la última vez que me ves.]]></string>
 <string id="511095"><![CDATA[]]></string>
 <string id="511097"><![CDATA[Dime. Esto es de especial interés para mí debido a la búsqueda continua de edificios que puedan servir como salas sanitarias.]]></string>
-<string id="511098"><![CDATA[Efectivamente. Estás leyendo mis pensamientos. Los Skinner se han extinguido. Supuestamente se ha vuelto completamente libre de infección. Las calles, los muros, los diversos objetos e incluso los cadáveres; todo está limpio. Las personas pueden tocar con seguridad cuerpos que recientemente fueron una fuente muy fuerte de infección...]]></string>
+<string id="511098"><![CDATA[Efectivamente. Estás leyendo mis pensamientos. El contegio en Skinner se han extinguido. Se ha vuelto completamente libre de infección. Las calles, los muros, los diversos objetos e incluso los cadáveres; todo está limpio. Las personas pueden tocar con seguridad cuerpos que recientemente fueron una fuente muy fuerte de infección...]]></string>
 <string id="511099"><![CDATA[¿Cómo se sabe esto?]]></string>
 <string id="511100"><![CDATA[La noticia fue traída por saqueadores que han estado por todo el distrito agarrando… propiedades abandonadas. Ya he dado órdenes para ocuparme de ellos, pero sólo tú puedes asegurarte de que las casas realmente estén libres de enfermedades.]]></string>
 <string id="511101"><![CDATA[Bueno, dejemos que los patrulleros se ocupen de los saqueadores.]]></string>
@@ -3629,7 +3629,7 @@ Necesito encontrar el enfoque más fructífero. Simon es un hombre muy respetado
 <string id="511128"><![CDATA[El peor de todos los criminales no estaba a la vista. El asesino ha desaparecido. Desapareció en el aire.]]></string>
 <string id="511129"><![CDATA[¿Entonces nuestra hipótesis es compatible? El asesino es de hecho una bacteria, ¿no es así? Entonces hay esperanza. Tenías razón.]]></string>
 <string id="511130"><![CDATA[Efectivamente. El microbio no puede sobrevivir en un ambiente no orgánico. Las paredes de los edificios infectados y, a veces, el propio suelo estaban cubiertos de una especie de materia orgánica peculiar que moría tan rápidamente como se propagaba. Me interesaría mucho estudiar esta porquería en un laboratorio.]]></string>
-<string id="511131"><![CDATA[Lamentablemente, todo lo que podemos estudiar ahora son estos... fragmentos medio muertos. No creo que lo que podemos observar refleje cómo se comportará una bacteria hecha y derecha. Lo mejor que podemos hacer es adivinar... ¡pero llegará el día en que atrapemos al culpable y lo agarremos con puño de hierro!]]></string>
+<string id="511131"><![CDATA[Lamentablemente, todo lo que podemos estudiar ahora son estos... restos medio muertos. No creo que lo que podemos observar refleje cómo se comportará una bacteria hecha y derecha. Lo mejor que podemos hacer es adivinar... ¡pero llegará el día en que atrapemos al culpable y lo agarremos con puño de hierro!]]></string>
 <string id="511132"><![CDATA[Espero que no tarde mucho.]]></string>
 <string id="511133"><![CDATA[Sí... ¡Solo nuestra maldita suerte!]]></string>
 <string id="511134"><![CDATA[¿Qué tal si no te toco? Sí, puedo sentirlo desde aquí.]]></string>
@@ -3673,7 +3673,7 @@ Necesito encontrar el enfoque más fructífero. Simon es un hombre muy respetado
 <string id="511188"><![CDATA[¿Estás seguro?]]></string>
 <string id="511189"><![CDATA[Jura que ha prohibido a cualquiera que aún sea leal a la antigua tradición de su hermandad, tocar un cuchillo. Los asesinos no son almacenistas, son aliados de un tal Barley the Barber.]]></string>
 <string id="511190"><![CDATA[Sí, he escuchado ese nombre. Sus hombres tendieron una emboscada y masacraron a los patrulleros cerca de la sala de calderas. Entonces tenemos que cazarlo y matarlo. Mejor aún: persíguelo e interrógalo minuciosamente. Vea si confirma las palabras de Grief.]]></string>
-<string id="511191"><![CDATA[La cebada será eliminada.]]></string>
+<string id="511191"><![CDATA[Barley será eliminado.]]></string>
 <string id="511192"><![CDATA[Dejemos el duelo en paz por ahora. Ordena a tus patrulleros que localicen el escondite de Barley.]]></string>
 <string id="511193"><![CDATA[¿Estás seguro de que son sus hombres?]]></string>
 <string id="511194"><![CDATA[¿Estás seguro de que son sus hombres?]]></string>
@@ -3874,9 +3874,9 @@ Necesito encontrar el enfoque más fructífero. Simon es un hombre muy respetado
 <string id="511491"><![CDATA[Necesito un arma.]]></string>
 <string id="511492"><![CDATA[¡Todos piden armas! Ya os he dicho que no tenemos. Incluso un cuchillo ahora costará una fortuna. Sólo puedo ofrecerles lo poco que nuestros valientes patrulleros pueden requisar de la población.]]></string>
 <string id="511493"><![CDATA[Dame todo lo que tengas.]]></string>
-<string id="511494"><![CDATA[Esta cebada se esconde en algún lugar de la Tierra, entre los edificios de la fábrica. No hay tantos almacenes allí… Encontraré esta guarida de anarquía, más vale tarde que nunca…]]></string>
+<string id="511494"><![CDATA[Este Barley se esconde en algún lugar de la Tierra, entre los edificios de la fábrica. No hay tantos almacenes allí… Encontraré esta guarida de anarquía, más vale tarde que nunca…]]></string>
 <string id="511495"><![CDATA[La guarida de los barberos está destruida. Todos los que encontré allí están muertos.]]></string>
-<string id="511496"><![CDATA[¡Bien! ¡Erradicaremos el crimen con prejuicios extremos!]]></string>
+<string id="511496"><![CDATA[¡Bien! ¡Erradicaremos el crimen con extremo prejuicio!]]></string>
 <string id="511497"><![CDATA[Eso no será suficiente. Muchos dicen que ahora hay cientos de ladrones. Que uno de cada cinco deja su casa con el cuchillo en la mano por la noche.]]></string>
 <string id="511498"><![CDATA[A esto los impulsa la desesperación y la falta de orden. Hay muchos malos ejemplos que convierten a la gente del pueblo en asesinos. El miedo será nuestra arma. Cuando esos hombres de familia vean cuán despiadadamente tratamos a los asesinos, lo pensarán dos veces antes de tocar un cuchillo.]]></string>
 <string id="511499"><![CDATA[Si tan solo fuera así de simple…]]></string>
@@ -5975,7 +5975,7 @@ PD Salí porque me trajeron la vacuna de ayer... Si no no hubiera salido de la h
 <string id="514079"><![CDATA[Una víctima de su descuido está detrás de esta puerta. ¡Víctima de su negligencia en el deber de un médico!]]></string>
 <string id="514080"><![CDATA[¡Deja de ladrar, cabeza de pico! Aquí tengo una panacea. Déjame entrar, los curaré.]]></string>
 <string id="514081"><![CDATA[Dámelo. Soy yo quien los trae de vuelta.]]></string>
-<string id="514082"><![CDATA[No te corresponde sermonearme sobre negligencia, Talon. ¡Cállate!]]></string>
+<string id="514082"><![CDATA[No te corresponde sermonearme sobre negligencia, pajarraco. ¡Cállate!]]></string>
 <string id="514083"><![CDATA[]]></string>
 <string id="514084"><![CDATA[Llegas justo a tiempo. Estamos terminando el ensayo. Practicando la escena más dramática.]]></string>
 <string id="514085"><![CDATA[Esperando con ansias.]]></string>
@@ -6066,7 +6066,7 @@ Un espectáculo que llamamos... "MAÑANA, SE DEBE HACER UNA ELECCIÓN"]]></strin
 <string id="514133"><![CDATA[]]></string>
 <string id="514134"><![CDATA[Me pregunto... Morir no es divertido, no vas a pagar para salir del inframundo. Aunque podría ganar algo de dinero allí, he oído que la paga es buena... Y entonces el hombre empieza a preguntarse.]]></string>
 <string id="514135"><![CDATA[Necesito armas, Grief.]]></string>
-<string id="514136"><![CDATA[Adelante, Dolor. ¿Por qué preguntarse?]]></string>
+<string id="514136"><![CDATA[Adelante, Grief. ¿Por qué preguntarse?]]></string>
 <string id="514137"><![CDATA[]]></string>
 <string id="514139"><![CDATA[Sí, he venido a ver la mercancía, Grief. De menor calibre.]]></string>
 <string id="514141"><![CDATA[]]></string>
@@ -13844,7 +13844,7 @@ Clara]]></string>
 <string id="526499"><![CDATA[Ya no me sorprende volver a verte en este momento.]]></string>
 <string id="526500"><![CDATA[Adiós.]]></string>
 <string id="526501"><![CDATA[Dime, Burakh, ¿de dónde sacó Rubin sangre similar a la de Simon?]]></string>
-<string id="526502"><![CDATA[¿Sabes quiénes son los Obligados?]]></string>
+<string id="526502"><![CDATA[¿Sabes quiénes son los Bounds?]]></string>
 <string id="526503"><![CDATA[Sí, lo hago.]]></string>
 <string id="526504"><![CDATA[He descubierto cosas curiosas sobre mí...]]></string>
 <string id="526505"><![CDATA[Necesitamos que el Poliedro se convierta en carne para el espíritu de Simón. Pero una decisión desgarradora como esta tendrá un precio terrible: tendremos que despedirnos definitivamente de Nina, cuyo espíritu reside allí en este momento.]]></string>
@@ -13888,7 +13888,7 @@ Clara]]></string>
 <string id="526566"><![CDATA[Es posible, ¿no es así?, que ella fuera quien trajera la enfermedad a nuestro pueblo? ¿Quieres buscarla?]]></string>
 <string id="526567"><![CDATA[Tal vez lo sea, tal vez no lo sea...]]></string>
 <string id="526568"><![CDATA[¡Dedicaré todo mi tiempo a esto!]]></string>
-<string id="526569"><![CDATA[Te refieres a todo tu tiempo libre. ¿No te das cuenta de lo precaria que sigue siendo tu situación? Has sido absuelto ante mis ojos, pero la gente, tanto los plebeyos como los Obligados, necesitarán otras pruebas.]]></string>
+<string id="526569"><![CDATA[Te refieres a todo tu tiempo libre. ¿No te das cuenta de lo precaria que sigue siendo tu situación? Has sido absuelto ante mis ojos, pero la gente, tanto los plebeyos como los Bounds, necesitarán otras pruebas.]]></string>
 <string id="526570"><![CDATA[Eso fue solo una introducción... Tienes algo importante que decirme, ¿verdad?]]></string>
 <string id="526571"><![CDATA[Las visiones—no son todas iguales. Algunas de ellas son claras, otras son confusas. Pero uno reciente era directo y vívido: una visión de tal poder que ni siquiera un materialista cuestionaría su procedencia divina. He tenido una visión del caos por venir. De la perdición de todas nuestras creaciones. De la tierra tragándose nuestra ciudad.]]></string>
 <string id="526572"><![CDATA[Si todo es verdad, es horrible…]]></string>
@@ -14592,7 +14592,7 @@ Clara]]></string>
 <string id="527320"><![CDATA[No... ¡Era ella otra vez! Mi aborrecible doble. ¡Fue ella quien infectó mi Bound!]]></string>
 <string id="527321"><![CDATA[Mañana tendrás tiempo de devolverles la vida.]]></string>
 <string id="527322"><![CDATA[Es la única esperanza que me queda…]]></string>
-<string id="527323"><![CDATA[Escúchame, Dolor. Soy el presagio de tu muerte. Cómo será depende de ti.]]></string>
+<string id="527323"><![CDATA[Escúchame, Grief. Soy el presagio de tu muerte. Cómo será depende de ti.]]></string>
 <string id="527324"><![CDATA[Estaba esperando algo así... Uno puede detectar a una futura maestra a una milla de distancia. Entonces habla, soy todo oídos.]]></string>
 <string id="527325"><![CDATA[¿Quieres morir como ladrón, asesino, especulador y contrabandista?]]></string>
 <string id="527326"><![CDATA[¿Quieres morir como campeón, mártir y salvador de tu pueblo?]]></string>
@@ -15881,7 +15881,7 @@ Firmado por la mano de Notkin, el cacique del alma y la mitad]]></string>
 <string id="528778"><![CDATA[...¿Eh? ¿Qué—?]]></string>
 <string id="528779"><![CDATA[Me escuchaste. ¡Mírame a los ojos!]]></string>
 <string id="528780"><![CDATA[¡Silencio ahí dentro…! ¿De qué estás hablando, pequeño grano? Apuesto a que tampoco lo sabes.]]></string>
-<string id="528781"><![CDATA[Mírame a los ojos, Dolor. ¿O crees que estoy bromeando? Inclínate ante mí, porque soy tu maestra.]]></string>
+<string id="528781"><![CDATA[Mírame a los ojos, Grief. ¿O crees que estoy bromeando? Inclínate ante mí, porque soy tu maestra.]]></string>
 <string id="528782"><![CDATA[Ooh... ¡No quise enojar a nadie! Sólo déjame irme.]]></string>
 <string id="528783"><![CDATA[Bueno, discúlpeme, pero no existe el "nosotros"; estás tú y estoy yo. No actúes como si fuera uno de los tuyos, ladrón.]]></string>
 <string id="528784"><![CDATA[Pronto empezarás a llamarme de otra manera, Grief. Pero por ahora te perdono. "Hermana" es.]]></string>
@@ -21603,9 +21603,9 @@ Burakh]]></string>
 <string id="536316"><![CDATA["El Distrito Bloqueado"]]></string>
 <string id="536317"><![CDATA[Víctor dijo que mi palabra sería suficiente. Aun así, creo que agradecería que le proporcionara alguna prueba de lo exhaustiva que fue la inspección. Creo que las pertenencias de un saqueador muerto servirán perfectamente para este propósito.]]></string>
 <string id="536318"><![CDATA[*** El distrito aún es peligroso, pero por razones distintas a la enfermedad. Afortunadamente, es mucho más fácil deshacerse de los saqueadores. Este distrito será repoblado pronto, al igual que muchos otros. Lo que hizo Víctor es un logro loable, nada menos.]]></string>
-<string id="536319"><![CDATA[Me informaron que nuestra mayor preocupación hoy es preparar al pueblo para defenderse ante la calamidad que nos ha sobrevenido. Aunque es la familia Olgimsky la que está a cargo de estos asuntos, nos gustaría contribuir tanto como podamos. Además, algo me dice que no estarás muy contento con los resultados de las empresas de Vlad.
+<string id="536319"><![CDATA[Me informaron que nuestra mayor preocupación hoy es preparar al pueblo para defenderse ante la calamidad que nos ha sobrevenido. Aunque es la familia Olgimsky la que está a cargo de estos asuntos, nos gustaría contribuir tanto como podamos. Además, algo me dice que la labor de Vlad no te dejará conforme.
 
-Por favor encuentre un momento para discutir una determinada idea conmigo.
+Por favor, hágase un tiempo, necesito discutir algo con usted.
 
 Víctor Kain]]></string>
 <string id="536320"><![CDATA[Invitación de Víctor Kain]]></string>
@@ -23721,16 +23721,16 @@ Teniendo en cuenta su línea de trabajo particular, creemos que no podrá evitar
 
 Hay ciudadanos, los llamados "Bound", que parecen estar extraordinariamente involucrados en los acontecimientos de la ciudad. Son contactados regularmente por personas de diferentes profesiones y posiciones sociales, incluidos sus dos colegas. También intentan compensar con sus propios esfuerzos lo que creen que es su inacción. En consideración de ello, el Comité Ejecutor ha decidido:
 
-1. Si un Obligado enferma, la puerta de su domicilio debe estar custodiada por un Albacea.
+1. Si un Bound enferma, la puerta de su domicilio debe estar custodiada por un Ejecutor.
 
-2. Mientras el Obligado permanezca consciente, el Ejecutor deberá recoger de él las entregas de correo y entregarle las provisiones y medicamentos entregados por los correos.
+2. Mientras el Bound permanezca consciente, el Ejecutor deberá recoger de él las entregas de correo y entregarle las provisiones y medicamentos entregados por los correos.
 
 3. En casos excepcionales se permite visitar al paciente. Para permitir la comunicación con la persona Atada, el Ejecutor debe recurrir a un medicamento antibiótico de mayor eficacia (feromicina).
 
 4. Las vacunas, sueros y otras soluciones similares deben administrarse, si están disponibles, de la misma manera que todo lo anterior.
 
 Comité de Ejecutores]]></string>
-<string id="538402"><![CDATA[DEL LÍMITE CAÍDO ENFERMO]]></string>
+<string id="538402"><![CDATA[SI UN BOUND CAE ENFERMO]]></string>
 <string id="538403"><![CDATA[Ha llegado el momento. Ella te está llamando. Si nuestras esperanzas se hacen realidad, la nueva Señora regresará a la ciudad y, al hacerlo, significará el fin de la pestilencia.
 
 Ponemos nuestra confianza en ti. Te amamos.
@@ -24068,7 +24068,7 @@ PD: Espero que la Torre se abra ante ti. Es muy importante. ]]></string>
 <string id="538734"><![CDATA[Invitación de Víctor]]></string>
 <string id="538735"><![CDATA[¿Podrías mirarlo? ¿No es alto, no tiene poderes de emergencia...]]></string>
 <string id="538736"><![CDATA[No he venido aquí para hablar. ¿Ya tu sabes? ]]></string>
-<string id="538754"><![CDATA[No muerdas la mano que te da de comer, Dolor... No terminará bien.]]></string>
+<string id="538754"><![CDATA[No muerdas la mano que te da de comer, Grief... No terminará bien.]]></string>
 <string id="538755"><![CDATA[Y creo que sé cómo encontrar uno…]]></string>
 <string id="538756"><![CDATA[Solo he estado allí cuatro veces en mi vida; Para mí la única manera de entrar siempre ha sido a través del Termitario. Todas las mañanas sale de allí una multitud de trabajadores, camina entre los edificios y es devorada por la entrada principal del Matadero, la que llaman la Garganta. Tycheek siempre la abría y cerraba él mismo. Pero ahora está muerto y no tienes suerte.]]></string>
 <string id="538757"><![CDATA[Sí, soy consciente de ello.]]></string>
@@ -26150,7 +26150,7 @@ Lara Ravel]]></string>
 <string id="540860"><![CDATA[Creo que Mark solo quería asustarte. Está contra nosotros, madre... No lo necesitamos... es malvado. ¡Que subvierta a los utópicos!]]></string>
 <string id="540861"><![CDATA[Estoy asustado... ¡Suena como si tuviera que matarlos!]]></string>
 <string id="540863"><![CDATA[Sí... ¡sí, madre!]]></string>
-<string id="540864"><![CDATA[¡Debemos continuar! No quedan muchos Obligados... Nuestra ciudad no se salvará por el bien de diez hombres justos; más bien, será destruida por culpa de un solo rebelde... A partir de ahora, estamos perdiendo la batalla... y por lo que sé, mi marido puede estar exterminando a los verdaderamente fieles en su furia...]]></string>
+<string id="540864"><![CDATA[¡Debemos continuar! No quedan muchos BOunds... Nuestra ciudad no se salvará por el bien de diez hombres justos; más bien, será destruida por culpa de un solo rebelde... A partir de ahora, estamos perdiendo la batalla... y por lo que sé, mi marido puede estar exterminando a los verdaderamente fieles en su furia...]]></string>
 <string id="540865"><![CDATA[¡Eso es muy probable! ¡Todos a quienes dirige mi atención parecen reconocer plenamente que merecen ser castigados!]]></string>
 <string id="540866"><![CDATA[Necesito pensarlo un poco más... Por ahora, sigamos actuando...]]></string>
 <string id="540867"><![CDATA[...¿Cómo?]]></string>
@@ -26349,7 +26349,7 @@ Lara Ravel]]></string>
 <string id="541120"><![CDATA[¿No estás... dormido?]]></string>
 <string id="541121"><![CDATA[Oye, ¿eso es mágico? Muéstrame... ¿Por qué? ¿Cuál es el problema?]]></string>
 <string id="541122"><![CDATA[...Vaya, ¡mirarías eso! Hola villanos, ¿escuchaste al pequeño? No eres la Señora de la Tierra por casualidad, ¿verdad? ¿O un inquisidor en misión oficial? ¿Eh? ¿Quién te crees que eres, pequeño expósito Saburov? Averigua de qué color es tu piel por dentro... ¡Consíguela!]]></string>
-<string id="541123"><![CDATA[Sé de qué color es el tuyo. Negro, Dolor... Es negro.]]></string>
+<string id="541123"><![CDATA[Sé de qué color es el tuyo. Negro, Grief... Es negro.]]></string>
 <string id="541124"><![CDATA[¿Qué—? Esperad, amigos, no la toquéis todavía. ¿Qué dijiste? ¿Negro? ¿Y por qué?]]></string>
 <string id="541125"><![CDATA[Eso es lo que te estoy preguntando; ¿Por qué es eso?]]></string>
 <string id="541126"><![CDATA[La escoria Saburov está tratando de incriminarme. Ataques con cuchillo y otros tipos de maldad. Ahora, ¿te imaginas cortando a alguien con un cuchillo? ¿Eh? ¡Por supuesto que no puedes! Yo no soy culpable de nada de eso y mis muchachos tampoco. Saburov, no está enojado por la gente, sólo por su gente... Quiero darle el verdadero asesino para que me deje en paz. También limpiaré mi propia reputación en el proceso, ¡así que es beneficioso para todos!]]></string>
@@ -26827,7 +26827,7 @@ Fue una decisión precipitada. Ahora nunca sabré lo que podría haber aprendido
 <string id="541851"><![CDATA[¿Te gusta la Torre?]]></string>
 <string id="541852"><![CDATA[...¿Por qué has construido el Poliedro, Andrey? ]]></string>
 <string id="541853"><![CDATA[Has arruinado la ciudad, Andrey. ]]></string>
-<string id="541854"><![CDATA["Recortes"…? ¡Oh, te refieres a las bacterias! Sí, tiene sentido. Lo siento, pensé que te referías a... algo más.]]></string>
+<string id="541854"><![CDATA["Restos"…? ¡Oh, te refieres a las bacterias! Sí, tiene sentido. Lo siento, pensé que te referías a... algo más.]]></string>
 <string id="541855"><![CDATA[No te vayas, Rubin. Si te importa mi opinión, ¡quédate! Definitivamente necesitaré tu ayuda en el futuro.]]></string>
 <string id="541856"><![CDATA[Lo sabía… ¡Sabía que ibas a hacer esto!]]></string>
 <string id="541857"><![CDATA[Estoy seguro de que la decisión de Georgiy será justa y equitativa.]]></string>
@@ -27314,12 +27314,12 @@ Fue una decisión precipitada. Ahora nunca sabré lo que podría haber aprendido
 <string id="542369"><![CDATA[Mira, aquí estoy, parado frente a ti, de carne y hueso. ¿Ves un papel estampado? Pensé que no.]]></string>
 <string id="542370"><![CDATA[Ahora cuéntame sobre los Olgimsky. ¿Han estado protegiendo su negocio turbio?]]></string>
 <string id="542371"><![CDATA[El gordo Vlad es el verdadero hombre, es él quien dirige el mercado... El joven no tiene idea... Fue él quien también ordenó el twyrine negro... su propio hacer...]]></string>
-<string id="542372"><![CDATA[Y la pregunta final, Dolor. ¿Dónde exactamente arrojaste los cuerpos al río?]]></string>
+<string id="542372"><![CDATA[Y la pregunta final, Grief. ¿Dónde exactamente arrojaste los cuerpos al río?]]></string>
 <string id="542373"><![CDATA[...Esos no éramos nosotros... Lo sé, conozco todo el canto con esos rígidos... pero esos fueron los Gusanos del Termitario, y yo Tengo la culpa... No sé nada... No es mi alcance de asesinato, no es mi estilo, lo juro por Dios... envenenar toda el agua, eso es simplemente... espantoso...]]> </string>
 <string id="542374"><![CDATA[Está bien. Dígame, ¿Olgimsky actuó en connivencia con usted?]]></string>
 <string id="542375"><![CDATA[No creo en la magia, Grief. No puedo verme afectado por eso. Algo anda mal aquí...]]></string>
 <string id="542376"><![CDATA[Depende. ¿Cuál? ¡Hay más de un Olgimsky, ya sabes! Je je... Uno podría haberlo hecho y el otro podría no haberlo hecho. Por eso no puedes derribarlos. Una mano toma y la otra da... La mano derecha azota a quien acaricia la mano izquierda... Je je je... Ahí tienes tu respuesta.]]></string>
-<string id="542377"><![CDATA[Dolor, ¿estaba usted al tanto de la epidemia que se avecinaba?]]></string>
+<string id="542377"><![CDATA[Grief, ¿estaba usted al tanto de la epidemia que se avecinaba?]]></string>
 <string id="542378"><![CDATA[No lo entiendo…]]></string>
 <string id="542379"><![CDATA[Bueno, lo descubrimos... Eventualmente. Verá, la twyrina negra se había utilizado como medicina durante el primer brote, y esta vez el comercio se volvió realmente agitado... Pero aquellos que la ordenaron debieron saberlo, probablemente ya en el verano... Je je...]]></string>
 <string id="542380"><![CDATA[Y... ¿quién lo había ordenado?]]></string>
