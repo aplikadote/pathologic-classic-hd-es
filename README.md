@@ -7,6 +7,7 @@ Traducción al español del juego Pathologic Classic HD
 - Copiar el directorio 'REPO/Strings' dentro del directorio 'PATHOLOGIC/data'
 
 (1) Click sobre el boton 'Code', luego click en 'Download ZIP'
+
 (2) En steam, en la Biblioteca, boton derecho sobre el juego -> Propiedades -> Archivos Instalados -> Explorar)
 
 Si lo anterior no funciona inmediatamente
