@@ -8,7 +8,7 @@ Traducción al español del juego Pathologic Classic HD
 
 (1) Click sobre el boton 'Code', luego click en 'Download ZIP'
 
-(2) En steam, en la Biblioteca, boton derecho sobre el juego -> Propiedades -> Archivos Instalados -> Explorar)
+(2) En steam, en la Biblioteca, boton derecho sobre el juego -> Propiedades -> Archivos Instalados -> Explorar
 
 Si lo anterior no funciona inmediatamente
 - Dentro del archivo 'DIR_PATHOLOGIC\data\config.ini', modificar la línea que contiene 'StringsType = VFS' por 'StringsType = FS'
