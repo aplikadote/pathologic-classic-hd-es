@@ -2,9 +2,9 @@
 Traducción al español del juego Pathologic Classic HD
 
 # Instrucciones
-- Descargar el repositorio como archivo ZIP (*) y descomprimir. A este directorio nos referiremos como $REPODIR 
-- Ubicar el directorio de instalacion del juego (**). A este directorio nos referiremos como $GAMEDIR 
-- Copiar directorio '$REPODIR/Strings' dentro del directorio '$GAMEDIR/data'
+- Descargar el repositorio como archivo ZIP (*) y descomprimir. A este directorio nos referiremos como %REPODIR% 
+- Ubicar el directorio de instalacion del juego (**). A este directorio nos referiremos como %GAMEDIR% 
+- Copiar directorio '%REPODIR%/Strings' dentro del directorio '%GAMEDIR%/data'
 
 <sub>(*) Click sobre el boton 'Code', luego click en 'Download ZIP'</sub>
 
