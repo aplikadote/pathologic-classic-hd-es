@@ -2812,7 +2812,7 @@ Necesito encontrar el enfoque más fructífero. Simon es un hombre muy respetado
 <string id="510051"><![CDATA[Eso es una pena.]]></string>
 <string id="510052"><![CDATA[¿Qué pasa entonces con Simon?]]></string>
 <string id="510053"><![CDATA[Sí, eso no cuadra… Supongo que el shabnak corrió directamente hacia él, sin desvíos. A propósito. O había estado en casa de Simón antes del cementerio.]]></string>
-<string id="510054"><![CDATA[Derecha. Deberías trabajar un poco más en esa hipótesis. Carece de pruebas.]]></string>
+<string id="510054"><![CDATA[Perfecto. Deberías trabajar un poco más en esa hipótesis. Carece de pruebas.]]></string>
 <string id="510055"><![CDATA[No dejes que la búsqueda del portador te deje llevar, muchacho. Al menos intenta descubrir quién o qué es sin salir de casa.]]></string>
 <string id="510056"><![CDATA[Tiene sentido. ¡Eres un tipo inteligente!]]></string>
 <string id="510057"><![CDATA[No te preocupes, solo estoy bromeando.]]></string>
@@ -7529,7 +7529,7 @@ PD: Si mis hallazgos son ciertos, esta enfermedad es realmente aterradora. Se me
 <string id="518297"><![CDATA[¿Cómo restablezco mi reputación?]]></string>
 <string id="518298"><![CDATA[Haz buenas obras. La ciudad es pequeña: los rumores se propagan como el fuego y se multiplican por cien en el proceso. Y los niños también los transmiten, así que… Tu reputación será restaurada. Simplemente no lo desperdicies, es frágil.]]></string>
 <string id="518299"><![CDATA[¿Qué lo hace bajo?]]></string>
-<string id="518300"><![CDATA[La disminución de tu reputación depende ante todo del número de seres vivos que hayas creado menos de los que viven. También depende de cómo influyas en las personas cuyo destino está ligado al tuyo. Conocerás a esas... personas especiales. A veces se les llama los Atados. Una costumbre tonta, pero útil.]]></string>
+<string id="518300"><![CDATA[La disminución de tu reputación depende ante todo del número de seres vivos que hayas creado menos de los que viven. También depende de cómo influyas en las personas cuyo destino está ligado al tuyo. Conocerás a esas... personas especiales. A veces se les llama los Bounds. Una costumbre tonta, pero útil.]]></string>
 <string id="518301"><![CDATA[¿Personas especiales?]]></string>
 <string id="518303"><![CDATA[Más o menos treinta, cada uno de ellos con sus propios rasgos únicos. Todos se odian, todos son mentirosos habituales... todos merecen vivir. Sin embargo, algunas de ellas son incompatibles: alguien tiene que morir para que otro pueda vivir. Y sabes lo que eso significa.]]></string>
 <string id="518304"><![CDATA[¿Cómo reconoceré a estas personas?]]></string>
@@ -8615,7 +8615,7 @@ PD: Si mis hallazgos son ciertos, esta enfermedad es realmente aterradora. Se me
 <string id="519653"><![CDATA[Parece que Grief intentará convertir cualquier confusión en una oportunidad de obtener ganancias. Está pidiendo que le envíen al Licenciado. Como si mis palabras tuvieran algún peso para ese dandy del capitolio…]]></string>
 <string id="519654"><![CDATA[He rescatado al niño. Los sentidos de Victoria no la engañaron. Me pregunto con qué frecuencia siente esas cosas. Será mejor que se lo cuentes de todos modos.]]></string>
 <string id="519655"><![CDATA["Los problemas de Capella"]]></string>
-<string id="519656"><![CDATA[La hija de Vlad el Pesado cuida bien de sus amigos. Aunque, quizás sea extraño que ella llame a sus amigos "los Atados". Su intuición sugiere que Notkin, el líder de los niños sin hogar, está en algún tipo de problema. Algo que vale la pena comprobar.]]></string>
+<string id="519656"><![CDATA[La hija de Vlad el Pesado cuida bien de sus amigos. Aunque, quizás sea extraño que ella llame a sus amigos "los Bounds". Su intuición sugiere que Notkin, el líder de los niños sin hogar, está en algún tipo de problema. Algo que vale la pena comprobar.]]></string>
 <string id="519657"><![CDATA[Bad Grief aceptó dejar en paz a los pilluelos, con la condición de que le llevara al Licenciado Dankovsky. Me pregunto si podrá superar su arrogancia por el bien de unos cuantos niños sin hogar.]]></string>
 <string id="519658"><![CDATA[El Licenciado Dankovsky prometió que la reunión se llevará a cabo. Da toda la apariencia de un hombre que cumplirá su palabra. Puedo volver a Bad Grief ahora.]]></string>
 <string id="519659"><![CDATA[¡Estos asesinos están maltratando a los niños! No tuve más remedio que matar a los sinvergüenzas. Quizás debería ver a los chicos para ver si todo está bien.]]></string>
@@ -10560,7 +10560,7 @@ Oyun, el indigno capataz resultó ser un sacrificio desproporcionado.]]></string
 <string id="522178"><![CDATA[¿Qué te hizo ella?]]></string>
 <string id="522179"><![CDATA[]]></string>
 <string id="522180"><![CDATA[Entonces, las personas de las que les he hablado están vivas después de todo, ¿no es así?]]></string>
-<string id="522181"><![CDATA[Sí, lo son.]]></string>
+<string id="522181"><![CDATA[Sí, lo están.]]></string>
 <string id="522182"><![CDATA[]]></string>
 <string id="522183"><![CDATA[¿Y bien? ¿Estás pensando en tomar una decisión pronto?]]></string>
 <string id="522184"><![CDATA[Yo también.]]></string>
@@ -11037,7 +11037,7 @@ Las personas que ejecutaron todo]]></string>
 <string id="522711"><![CDATA[Una carta de los creadores]]></string>
 <string id="522712"><![CDATA[Nuestro destino se decidirá hoy.
 
-Hay tantas cosas que quiero decirte, pero que nunca me atrevería a decir... Prefiero no escribirte antes que influir en tu decisión. De lo único que estoy plenamente convencido es de que la herencia de tu padre, indicada por el signo del Udurgh, es la ciudad misma; el asentamiento constaba de tres partes: la Tierra, los Nudos y Stone Yard.
+Hay tantas cosas que quiero decirte, pero que nunca me atrevería a decir... Preferí no escribirte antes para no influir en tu decisión. De lo único que estoy plenamente convencida es de que la herencia de tu padre, indicada por el signo del Udurgh, es la ciudad misma; el asentamiento constaba de tres partes: la Tierra, los Nudos y Stone Yard.
 
 Todo lo demás espero que lo sepas ya.
 
@@ -11049,13 +11049,13 @@ A.]]></string>
 <string id="522713"><![CDATA[Carta de Aglaya]]></string>
 <string id="522714"><![CDATA[Artemy Burakh!
 
-Si lo que me han dicho es cierto, usted debe ser el único médico con cierta integridad moral en la ciudad. Usted es el único que ha evitado cualquier trato con el desgraciado Inquisidor, hecho que se confirma aún más cuando ella intenta darme la impresión contraria.
+Si lo que me han dicho es cierto, usted debe ser el único médico con cierta integridad moral en la ciudad. Usted es el único que ha evitado cualquier trato con la desgraciada de la Inquisidora, hecho que se confirma aún más cuando ella intenta darme la impresión contraria.
 
 Estoy un poco confundido, así que creo que lo mejor que puedo hacer es aceptar tu decisión, sea cual sea. El acto comenzará a las siete en la Catedral. Antes de las seis y media me podréis encontrar en el Ayuntamiento.
 
-bloque alejandro,
+Alexander Block,
 Comandante del Cuarto Ejército]]></string>
-<string id="522715"><![CDATA[Carta del bloque]]></string>
+<string id="522715"><![CDATA[Carta de Block]]></string>
 <string id="522716"><![CDATA[Sé que usted está interesado en pares, oposiciones y otras similitudes significativas, así que déjeme recordarle algo.
 
 El primer par debe leerse de la siguiente manera: si el udurgh del que habló tu padre es la ciudad, entonces el Poliedro es tu sacrificio. No hay otra manera, ya que los dos se corresponden entre sí. Aplasta el Poliedro y fluirán ríos de sangre, y el icor subterráneo emergerá del interior de la varilla hueca sobre la que se encontraba la Torre.
@@ -11080,7 +11080,7 @@ DD
 
 PD: Encuentre la oportunidad de verme si necesita más pruebas de mi corrección.]]></string>
 <string id="522719"><![CDATA[La carta del Licenciado]]></string>
-<string id="522720"><![CDATA[Yo estaba. Si me capturan y me sacan del tablero, entonces el Comandante será libre de hacer su movimiento. Si eliges el camino de Capella, viviré. Si eliges el camino de Clara o el del Licenciado, entonces me llevarás al cadalso y cumplirás tu propósito.]]></string>
+<string id="522720"><![CDATA[Lo era. Si me capturan y me sacan del tablero, entonces el Comandante será libre de hacer su movimiento. Si eliges el camino de Capella, viviré. Si eliges el camino de Clara o el del Licenciado, entonces me llevarás al cadalso y cumplirás tu propósito.]]></string>
 <string id="522721"><![CDATA[Estoy confundido. ¿Qué debo hacer?]]></string>
 <string id="522722"><![CDATA[¿Realmente me estabas mintiendo?]]></string>
 <string id="522723"><![CDATA[No me corresponde a mí asesorarlo. Cualquier palabra que diga será considerada una acción. Quiero que seas libre. Eres el único aquí que es más fuerte que yo.]]></string>
@@ -11094,7 +11094,7 @@ PD: Encuentre la oportunidad de verme si necesita más pruebas de mi corrección
 <string id="522731"><![CDATA[¿Cómo te salva el camino de Capella?]]></string>
 <string id="522732"><![CDATA[¿Qué pasa con el Comandante?]]></string>
 <string id="522733"><![CDATA[Él es mi igual. Y ante él me hago más fuerte, pero ante ti me debilito...]]></string>
-<string id="522734"><![CDATA[Derecha...]]></string>
+<string id="522734"><![CDATA[Ok...]]></string>
 <string id="522735"><![CDATA[Muere, Inquisidor. Aquí y ahora cumpliré mi destino y heredaré la carga de mi padre. Eres mi sacrificio.]]></string>
 <string id="522736"><![CDATA[Hable con ella usted mismo. Pero ella es la única que puede ayudarte a mantener viva esta ciudad. Y esto es esencial para salvarme.]]></string>
 <string id="522737"><![CDATA[¿Cuál es el precio de esta solución?]]></string>
@@ -11222,8 +11222,8 @@ PD: Encuentre la oportunidad de verme si necesita más pruebas de mi corrección
 <string id="522882"><![CDATA[¿Qué juego diabólico estás jugando?]]></string>
 <string id="522883"><![CDATA[¡Mira! ¡Es una caja de arena mágica! ¿Ves cómo se refleja en los espejos? ¡Es porque allí todo es real! Aquí hay un pueblo, lo hemos hecho de arena. Y allí está sucediendo algo terrible: ¡una EPIDEMIA! Así que todo se está desmoronando... la ciudad se está cayendo a pedazos... Pero hemos enviado héroes allí para arreglarlo.]]></string>
 <string id="522884"><![CDATA[¿Para arreglarlo?]]></string>
-<string id="522885"><![CDATA[Se está pudriendo, ¿ves...? Vaya. Esperábamos que pensaran en algo. Muévelo en arena, al menos... ¡Son mágicos, ya sabes, los héroes lo son! Tomemos a usted, por ejemplo, ¡mira cómo resultó todo! Solías ser una muñeca y ahora estás viva. ¿Quizás el resto también funcione así?]]></string>
-<string id="522886"><![CDATA[¿Sabías que tus muñecas estaban vivas?]]></string>
+<string id="522885"><![CDATA[Se está pudriendo, ¿ves...? Vaya. Esperábamos que pensaran en algo. Entiérralo en la arena, al menos... ¡Son mágicos, ya sabes, los héroes lo son! Tomemos a usted, por ejemplo, ¡mira cómo resultó todo! Solías ser un muñeco y ahora estás vivo. ¿Quizás con el resto también funcione así?]]></string>
+<string id="522886"><![CDATA[¿Sabías que tus muñecos estaban vivos?]]></string>
 <string id="522887"><![CDATA[¡Todo está vivo por aquí! Es esta estructura la que da vida a las cosas. No es como si estuviéramos torciendo el brazo a nadie... Simplemente sucede. Todo por sí solo. Sólo construimos la ciudad, ¡y luego se volvió milagrosa por sí sola! Y las muñecas… Simplemente metimos las de usar y tirar, de todos modos estaban cojas. Ups, lo siento...]]></string>
 <string id="522889"><![CDATA[No toques nada más por aquí. ¡Y no pegues más nada ahí!]]></string>
 <string id="522890"><![CDATA[Solo—no te atrevas a aplastar nada aquí. Intentaré solucionarlo.]]></string>
@@ -11232,7 +11232,7 @@ PD: Encuentre la oportunidad de verme si necesita más pruebas de mi corrección
 <string id="522894"><![CDATA[No pensé que pudieras amar en absoluto.]]></string>
 <string id="522895"><![CDATA[Efectivamente. Estoy de acuerdo contigo en esto.]]></string>
 <string id="522896"><![CDATA[Entonces, ¿cómo hiciste para enviar a los héroes?]]></string>
-<string id="522897"><![CDATA[Muéstrame tu entorno sandbox.]]></string>
+<string id="522897"><![CDATA[Muéstrame tu arenero.]]></string>
 <string id="522898"><![CDATA[¡Pequeños idiotas! ¡Dime todo lo que sabes antes de que te dé una paliza!]]></string>
 <string id="522899"><![CDATA[Oye, oye, mantén las manos tranquilas... ¡Muñequita! ¡Una muñequita dando vueltas!]]></string>
 <string id="522900"><![CDATA[¿Quién eres?]]></string>
@@ -11249,11 +11249,11 @@ PD: Encuentre la oportunidad de verme si necesita más pruebas de mi corrección
 <string id="522912"><![CDATA[Sí... Bueno, tú personalmente has crecido un poco...]]></string>
 <string id="522913"><![CDATA[Les arrancaré la cabeza.]]></string>
 <string id="522914"><![CDATA[No te enfades. Ser un juguete también es agradable.]]></string>
-<string id="522915"><![CDATA[Pero ¿por qué lo jugaste así?]]></string>
-<string id="522916"><![CDATA[Bueno, necesitábamos encontrarle algún uso. De todos modos, nunca nos gustaste mucho... Siempre has sido la muñeca aterradora. Jugar contigo no fue divertido.]]></string>
-<string id="522917"><![CDATA[Así que metiste los artículos desechables en el meollo del asunto.]]></string>
-<string id="522918"><![CDATA[¡Los que podrían arreglar las cosas! No siempre se puede tener a mano un Smart Doctor Man. Así es como va el juego. ¿Nos ayudarás a sanar la ciudad?]]></string>
-<string id="522920"><![CDATA[lo haré.]]></string>
+<string id="522915"><![CDATA[Pero ¿por qué jugaste de esta forma?]]></string>
+<string id="522916"><![CDATA[Bueno, necesitábamos encontrarle algún uso. De todos modos, nunca nos gustaste mucho... Siempre has sido el muñeco aterrador. Jugar contigo no fue divertido.]]></string>
+<string id="522917"><![CDATA[Así que metiste todo lo desechable en medio de todo este asunto.]]></string>
+<string id="522918"><![CDATA[¡Los que podrían arreglar las cosas! No siempre se puede tener a mano un Doctor Inteligente. Así es como va el juego. ¿Nos ayudarás a sanar la ciudad?]]></string>
+<string id="522920"><![CDATA[Lo haré.]]></string>
 <string id="522921"><![CDATA[Saca al Comandante de allí.]]></string>
 <string id="522922"><![CDATA[¡Eso es imposible ahora! No podemos. Los espejos lo ponen todo muy complicado. No puedes retroceder tu movimiento una vez que lo hayas hecho; estas son las reglas de un juego real.]]></string>
 <string id="522923"><![CDATA[Preferiría que fuera un juego muerto irreal.]]></string>
@@ -11311,7 +11311,7 @@ PD: Encuentre la oportunidad de verme si necesita más pruebas de mi corrección
 <string id="522982"><![CDATA[¿A quién planeas llamar?]]></string>
 <string id="522983"><![CDATA[Algunas personas. Ayudarán a construir una nueva ciudad.]]></string>
 <string id="522984"><![CDATA[¿Cuál sería su solución?]]></string>
-<string id="522985"><![CDATA[Podría hacer que destruyeran el Acuerdo junto con el Proyecto Bull, pero el Poliedro permanecería. Block me aseguró que dispararía un ataque tan preciso que la otra orilla del Gorkhon no resultaría dañada. "El río se tragará el plato", dijo.]]></string>
+<string id="522985"><![CDATA[Podría hacer que destruyeran el asentamiento junto con el Proyecto Bull, pero el Poliedro permanecería. Block me aseguró que dispararía un ataque tan preciso que la otra orilla del Gorkhon no resultaría dañada. "El río se tragará el plato", dijo.]]></string>
 <string id="522986"><![CDATA[La gente morirá si destruimos la ciudad.]]></string>
 <string id="522987"><![CDATA[¡Así que ese fue el verdadero precio de su elección! ¿Tienes alguna idea de lo que sucede ahora?]]></string>
 <string id="522988"><![CDATA[¿Qué pasa ahora? Ahora los esfuerzos de miles de personas, la energía de una familia maravillosa y el talento de creadores genuinos colaborarán para construir un milagro de la vida real; un milagro capaz de empujar a la humanidad hacia un nuevo avance y otorgarnos la capacidad de producir cosas de genuina belleza.]]></string>
@@ -11385,9 +11385,9 @@ PD: Encuentre la oportunidad de verme si necesita más pruebas de mi corrección
 <string id="523066"><![CDATA[Resulta que eres un juguete, Clara. Y soy un ser humano.]]></string>
 <string id="523068"><![CDATA[¡Por supuesto que sí! ¿No lo eras?]]></string>
 <string id="523069"><![CDATA[No lo estaba… ¡y estás tan tranquilo al respecto!]]></string>
-<string id="523070"><![CDATA[¿Cuánto tiempo estuvo consciente de eso?]]></string>
+<string id="523070"><![CDATA[¿Desde cuando estabas consciente de ello?]]></string>
 <string id="523071"><![CDATA[También estoy consciente de algo más. Así es. Casi todas las personas con las que nos hemos cruzado en los últimos días son juguetes, juguetes honestos con Dios. Pero algunas criaturas aquí son más complejas…]]></string>
-<string id="523072"><![CDATA[¿Quién? ]]></string>
+<string id="523072"><![CDATA[¿Quiénes? ]]></string>
 <string id="523073"><![CDATA[Tú y yo, por ejemplo. Seguramente entiendes bastante sobre ti mismo, sientes una voluntad poderosa detrás de ti... Y te voy a sorprender bastante, ji, ji... ¿Qué hubieras hecho si lo hubieras sabido de antemano?]]></string>
 <string id="523074"><![CDATA[Hubiera actuado con más confianza.]]></string>
 <string id="523075"><![CDATA[Me habría disparado.]]></string>
@@ -11459,7 +11459,7 @@ PD: Encuentre la oportunidad de verme si necesita más pruebas de mi corrección
 <string id="523142"><![CDATA[Murky se encargará de las mejoras a las calles. La ciudad debe verse bonita. También la asignaré para que se encargue del suministro de agua y del alcantarillado. Ella se convertirá en la Señora Lila. ]]></string>
 <string id="523143"><![CDATA[Muy bien.]]></string>
 <string id="523144"><![CDATA[Sticky estará a cargo del comercio. Será el comerciante principal, controlará todas las tiendas de la ciudad y se asegurará de que todos tengan todo lo que necesitan. Se convertirá en gobernante más tarde... al igual que todos los demás niños que has salvado. Su poder será de color ámbar.]]></string>
-<string id="523145"><![CDATA[Derecha.]]></string>
+<string id="523145"><![CDATA[Perfecto.]]></string>
 <string id="523146"><![CDATA[Grace seguirá haciendo su trabajo: enterrará a los muertos. Tienen todo su propio reino, ya sabes, y también necesitan una mano cariñosa. Ella será una maestra beige. El aspecto más valioso de este color es el sutil matiz del amanecer. Un pequeño matiz de rosa y limón...
 ]]></string>
 <string id="523147"><![CDATA[¿Y quién será el jefe de todo esto?]]></string>
@@ -12476,7 +12476,7 @@ PD: Encuentre la oportunidad de verme si necesita más pruebas de mi corrección
 <string id="524882"><![CDATA[]]></string>
 <string id="524883"><![CDATA[La ciudad es pequeña y bastante corriente, ¿no es así? Pero aquí hay todo tipo de gente. La gente sencilla... y los más notables. Los primeros te dirán más de lo que saben. Estos últimos saben mucho más de lo que jamás van a revelar. Vigílalos de cerca. Tu victoria depende de ello.]]></string>
 <string id="524884"><![CDATA[¿Y quiénes son estas personas extraordinarias?]]></string>
-<string id="524885"><![CDATA[Hay veintitantos de ellos. Se distinguen fácilmente… por su alojamiento o su presencia. Reciben muchos nombres: Los Atados, Los Destinados, Los Adherentes, "El Taglur del Gobo", El Círculo de la Ciudad. Simon prefería su compañía a cualquier otra.]]></string>
+<string id="524885"><![CDATA[Hay veintitantos de ellos. Se distinguen fácilmente… por su alojamiento o su presencia. Reciben muchos nombres: Los Bounds, Los Destinados, Los Adherentes, "El Taglur del Gobo", El Círculo de la Ciudad. Simon prefería su compañía a cualquier otra.]]></string>
 <string id="524886"><![CDATA[¿Por qué?]]></string>
 <string id="524887"><![CDATA[Porque son ellos quienes decidirán el destino de este pueblo. No se deje distraer por el hecho de que algunos de ellos parezcan insignificantes o de mala reputación. Ellos ganarán su valor, solo dales tiempo. Son los antros más importantes del pueblo.]]></string>
 <string id="524888"><![CDATA[¿Por qué me cuentas todo esto?]]></string>
@@ -12494,7 +12494,7 @@ PD: Encuentre la oportunidad de verme si necesita más pruebas de mi corrección
 <string id="524901"><![CDATA[Nadie sería lo suficientemente bueno. Hay pocas personas aquí capaces de hacer algo que valga la pena.]]></string>
 <string id="524902"><![CDATA[¿Cuántos?]]></string>
 <string id="524903"><![CDATA[]]></string>
-<string id="524904"><![CDATA[Hay algo en particular sobre lo que sentimos la necesidad de advertirle. Cuando hables con el Bound, elige tus palabras con cuidado. No te preocupes, podrás distinguir fácilmente qué clase de persona está frente a ti, un hombre observador que eres. Así que usa esa habilidad cuando trates con los Atados; De hecho, vale la pena insultar a algunos de ellos, mientras que otros deben ser tratados con el mayor respeto.]]></string>
+<string id="524904"><![CDATA[Hay algo en particular sobre lo que sentimos la necesidad de advertirle. Cuando hables con el Bound, elige tus palabras con cuidado. No te preocupes, podrás distinguir fácilmente qué clase de persona está frente a ti, un hombre observador que eres. Así que usa esa habilidad cuando trates con los Bounds; De hecho, vale la pena insultar a algunos de ellos, mientras que otros deben ser tratados con el mayor respeto.]]></string>
 <string id="524905"><![CDATA[No tengo idea de lo que estás hablando.]]></string>
 <string id="524906"><![CDATA[Cada línea que pronuncies tendrá consecuencias. Las noticias se difunden rápidamente por aquí. Si arruinas tu reputación en un lugar, tendrás que cosechar lo que has sembrado en otro. Restaura tu buen nombre en el sur y recibirás una bienvenida más cálida en el norte. Prestarán atención a cada palabra que digas y serás recompensado.]]></string>
 <string id="524907"><![CDATA[¿No mediante dinero, espero?]]></string>
@@ -13231,7 +13231,7 @@ Clara]]></string>
 <string id="525855"><![CDATA[¿Cómo?]]></string>
 <string id="525856"><![CDATA[¿Importa? Es la sangre la que puede combatir la enfermedad. Y si la enfermedad es la ley y la voluntad de la naturaleza, entonces esta es la sangre de alguien que dicta su propia voluntad al universo, en lugar de ceder a los caprichos de la naturaleza.]]></string>
 <string id="525857"><![CDATA[¿Te convertirás en el Destripador?]]></string>
-<string id="525858"><![CDATA[No necesariamente. Intentaré utilizar a los Kin para buscarlos cuando se vuelva a abrir el Termitario. Se ocupan mucho de la sangre. ¿O tal vez había una razón por la que Simon usó un principio tan extraño para seleccionar su Atado? Ya que su Atado incluía niños y ladrones…]]></string>
+<string id="525858"><![CDATA[No necesariamente. Intentaré utilizar a los Kin para buscarlos cuando se vuelva a abrir el Termitario. Se ocupan mucho de la sangre. ¿O tal vez había una razón por la que Simon usó un principio tan extraño para seleccionar su Bound? Ya que su Bound incluía niños y ladrones…]]></string>
 <string id="525859"><![CDATA[¿Puedo hacerle algunas preguntas?]]></string>
 <string id="525860"><![CDATA[No; Ya conozco tus talentos hipnóticos. Si consigues que Kain padre me perdone, te lo contaré todo por mi propia voluntad. Honestamente, lo haré. Estoy a punto de entregarme de todos modos.]]></string>
 <string id="525861"><![CDATA[Muy bien, visitaré a Kain. Mientras tanto, come tu comida... Allí. Mira qué gigante hambriento eres…]]></string>
@@ -14362,7 +14362,7 @@ Clara]]></string>
 <string id="527082"><![CDATA[Está bien. Hablaré con este Licenciado.]]></string>
 <string id="527083"><![CDATA[Solo espere hasta la noche, por favor. En este momento él también está confundido... así que disparará primero y hará preguntas después. Y solo... por favor haz lo mejor que puedas para no romper más huesos. No ataques a personas al azar en la calle. Simplemente sea suave con ellos y trabaje para restaurar gradualmente su buen nombre... También vaya a ver a mi hija ahora mismo. Es una buena chica y tiene algo que decirte.]]></string>
 <string id="527084"><![CDATA[¿Es así?]]></string>
-<string id="527085"><![CDATA[Lo es. Todos ellos han estado viendo a Isidor con bastante frecuencia últimamente. Quizás algunos de ellos puedan incluso adivinar quién es el verdadero asesino. ¡Y el resto sabe con certeza que eres inocente! Están Atados, por lo que acusar a una persona de parricidio no sería natural para ellos... incluso si la evidencia es obvia.]]></string>
+<string id="527085"><![CDATA[Lo es. Todos ellos han estado viendo a Isidor con bastante frecuencia últimamente. Quizás algunos de ellos puedan incluso adivinar quién es el verdadero asesino. ¡Y el resto sabe con certeza que eres inocente! Están Unidos, por lo que acusar a una persona de parricidio no sería natural para ellos... incluso si la evidencia es obvia.]]></string>
 <string id="527086"><![CDATA[Feliz de escuchar eso.]]></string>
 <string id="527087"><![CDATA[Pueden ayudarle a descubrir cómo pasó su padre su última noche. Sólo sé que estuvo mucho tiempo en la estepa y que anoche regresó muy tarde. Fue entonces cuando los niños fueron a ver al anciano en secreto.]]></string>
 <string id="527088"><![CDATA[¿Para qué?]]></string>
@@ -15212,7 +15212,7 @@ Firmado por la mano de Notkin, el jefe del alma y la mitad]]></string>
 <string id="528053"><![CDATA[El Licenciado se puede encontrar en el taller de Peter Stamatin.]]></string>
 <string id="528054"><![CDATA[El Licenciado está dispuesto a ayudarme. Al parecer, valora mucho este tipo de alianzas; me ha pedido que le traiga la cabeza de Burakh.]]></string>
 <string id="528055"><![CDATA[Burakh dice que debería llevarle la cabeza del capataz.]]></string>
-<string id="528056"><![CDATA[Finalmente, las líneas se encontraron. El primero de los Atados caídos, ese monstruoso Capataz, que no dudará en dar su vida, ha reconocido en mí a la Señora de la Tierra. Está dispuesto a sacrificarse por la posibilidad de un milagro. Puedo regresar a Burakh ahora, ¡le he liberado el trono subterráneo!]]></string>
+<string id="528056"><![CDATA[Finalmente, las líneas se encontraron. El primero de los Bounds caídos, ese monstruoso Capataz, que no dudará en dar su vida, ha reconocido en mí a la Señora de la Tierra. Está dispuesto a sacrificarse por la posibilidad de un milagro. Puedo regresar a Burakh ahora, ¡le he liberado el trono subterráneo!]]></string>
 <string id="528057"><![CDATA[Mi plan se hará realidad. Fui capaz de domar a los demonios, aunque su odio mutuo persiste. Puedo regresar a Aglaya Lilich ahora.]]></string>
 <string id="528058"><![CDATA[Este es el final. Aglaya me ordena que abandone la ciudad inmediatamente. ¿Pero por qué? ¿Qué hay de malo en mi estrategia? ¿Es esto porque mi plan responde demasiado bien a los objetivos de los poderes fácticos... ¿Qué clase de Inquisidora es ella? ¡Ella no es más que una impostora maliciosa y vengativa! ¿Qué puedo hacer ahora sino desplomarme a los pies del Comandante y suplicar protección?]]></string>
 <string id="528059"><![CDATA[El viaje final está por delante. Es hora de cosechar lo sembrado. El capataz fue el primer sacrificio. Se necesitan seis más. Siete pecadores serían suficientes para salvar la ciudad.]]></string>
@@ -15295,7 +15295,7 @@ Firmado por la mano de Notkin, el jefe del alma y la mitad]]></string>
 <string id="528144"><![CDATA[Sí. Simon, el ser humano casi perfecto, tenía la misma sangre. Pero fue débil. Simón era muy mayor. En todos los demás aspectos, su sangre era similar a la que buscaba Burakh. Una sangre santa, que todavía desea, todavía intenta arrebatársela al capataz Oyun.]]></string>
 <string id="528145"><![CDATA[¿Qué significa esto?]]></string>
 <string id="528146"><![CDATA[¿Por qué necesitamos específicamente el enlace?]]></string>
-<string id="528147"><![CDATA[Supongo que la predisposición en su sangre fue lo que los hizo Atados en primer lugar. Gente perfecta con sangre perfecta. Tenemos que encontrar voluntarios entre los Atados que se sacrifiquen. La gente sencilla de la calle no sirve; eso ha sido verificado.]]></string>
+<string id="528147"><![CDATA[Supongo que la predisposición en su sangre fue lo que los hizo Bounds en primer lugar. Gente perfecta con sangre perfecta. Tenemos que encontrar voluntarios entre los Bounds que se sacrifiquen. La gente sencilla de la calle no sirve; eso ha sido verificado.]]></string>
 <string id="528148"><![CDATA[Los milagros violan el mundo; son de naturaleza abusiva. Cuando se concibió el mundo, se concibió como un todo coherente, sin contradicciones. La armonía es el componente principal, e incluso el único, de cualquier Universo. Por feo que sea un mundo, por injusto que parezca, ¡es armonioso!]]></string>
 <string id="528149"><![CDATA[¡Mira a tu alrededor! ¿O es esto lo que llamas armonía?]]></string>
 <string id="528150"><![CDATA[¿Y quién te crees que eres, atreviéndote a interferir en un diseño supremo? ¿Cuáles podrían ser las consecuencias de tus acciones sin sentido?]]></string>
@@ -16053,7 +16053,7 @@ Firmado por la mano de Notkin, el jefe del alma y la mitad]]></string>
 <string id="528953"><![CDATA[…Nina no es solo mi amada esposa. Ella es un espíritu en cuyo nombre uno podría lanzarse a la batalla contra la desesperación misma. Nina ha imbuido a la ciudad de fuerza espiritual; Nina le ha dado vida, ¡y Nina también lo salvará del Cuarto Ejército y sus cañones!]]></string>
 <string id="528954"><![CDATA[¿Quieres sacrificar tu vida por Nina?]]></string>
 <string id="528955"><![CDATA[Pero ¿qué pasa con Simón? Pensé que era el protector de la ciudad.]]></string>
-<string id="528956"><![CDATA[Cualquier miembro del Círculo de los Atados se sacrificará fácilmente por el bien de la salvación del Pueblo. Si Simón hubiera sido un gigante, con suficiente sangre como para llenar un océano, la ciudad se habría salvado. Pero la sangre de Simón sólo fue suficiente para un puñado de personas...]]></string>
+<string id="528956"><![CDATA[Cualquier miembro del Círculo de los Bounds se sacrificará fácilmente por el bien de la salvación del Pueblo. Si Simón hubiera sido un gigante, con suficiente sangre como para llenar un océano, la ciudad se habría salvado. Pero la sangre de Simón sólo fue suficiente para un puñado de personas...]]></string>
 <string id="528957"><![CDATA[¡Entonces mi más sentido pésame para usted!]]></string>
 <string id="528958"><![CDATA[Lástima por eso. La historia proporciona una mejor comprensión de los tiempos modernos.]]></string>
 <string id="528959"><![CDATA[¡Eso es profundo! Entonces, ¿cómo entro al Poliedro?]]></string>
@@ -16288,7 +16288,7 @@ Firmado por la mano de Notkin, el jefe del alma y la mitad]]></string>
 <string id="529194"><![CDATA[Una fe extraña...]]></string>
 <string id="529195"><![CDATA[Me preveo sabiendo por qué nos ha caído este castigo. La ciudad vivió, creció, se desarrolló y finalmente intentó liberarse de sus propias limitaciones. La Tierra que lo había llevado lo golpeó en la cabeza, que había sobresalido demasiado, muy parecido a lo que le haría una madre estricta a su hijo irreflexivo.]]></string>
 <string id="529196"><![CDATA[Sí, Katerina. Creo que nuestra fe es la verdadera.]]></string>
-<string id="529197"><![CDATA[Hablarás con aquellos Atados a ti sobre la verdad de la Humildad. Debes convencer a uno de ellos, a dos, a tres de la sabiduría de la verdadera fe. Si alguno de ellos se muestra terco, utilizarás los poderes que te fueron concedidos por la propia providencia.]]></string>
+<string id="529197"><![CDATA[Hablarás con aquellos Bounds sobre la verdad de la Humildad. Debes convencer a uno de ellos, a dos, a tres de la sabiduría de la verdadera fe. Si alguno de ellos se muestra terco, utilizarás los poderes que te fueron concedidos por la propia providencia.]]></string>
 <string id="529198"><![CDATA[¿Con gracia? ¿No se compadece de ti... de nosotros?]]></string>
 <string id="529199"><![CDATA[Quiero estar seguro de eso. Hazte amigo de ella. Intenta agradarle y eventualmente desarrolla un afecto por ti. No necesitas mucho para esto. Y si necesitas saber más sobre ella, Lara Ravel es la persona que te lo contará todo sobre Grace. Ella es un ángel de bondad tanto como la pobre hija del cuidador... y su padre también murió recientemente.]]></string>
 <string id="529200"><![CDATA[¿Entonces esta es la voluntad de la Tierra?]]></string>
@@ -16613,7 +16613,7 @@ La hija del cuidador del cementerio.
 Ésa es mi promesa.
 
 Tengo que escribirle otra carta a mi hijo. ¿Será que ninguna de las tres cartas que le escribí antes le ha llegado?
-Necesito hablar con Simón. Él sabe. El Copioso Taglur no consiste únicamente en los Atados.]]></string>
+Necesito hablar con Simón. Él sabe. El Copioso Taglur no consiste únicamente en los Bounds.]]></string>
 <string id="529846"><![CDATA[Diarios de Isidor. Un extracto sobre el deber final [p. 133]]]></string>
 <string id="529847"><![CDATA[Me encontré con dificultades de un tipo muy peculiar. Siguen obstruyendo mi trabajo con sus constantes referencias a supersticiones locales. No creo que pueda arreglármelas sin tu ayuda. Por favor ven a verme, si puedes, estaré trabajando en el local donde me alojo.
 
@@ -17079,7 +17079,7 @@ VO]]></string>
 <string id="530387"><![CDATA[¿De dónde vino? ¿No fue asesinado el último hace tres días?]]></string>
 <string id="530388"><![CDATA[Tus palabras. Su sangre fue a la tierra, ¿no? Así que volvió a crecer. ¡A'ha'ar!]]></string>
 <string id="530389"><![CDATA[¿Estás bromeando? ¿Qué hago con él?]]></string>
-<string id="530390"><![CDATA[Los niños lo sienten. Los más pequeños saben qué hacer. Pregúntales. Heredan la tierra. También tienes otros Atados: unidos, conectados con un solo hilo. Pregúntale a tu Bound. Pregúntale a los niños.]]></string>
+<string id="530390"><![CDATA[Los niños lo sienten. Los más pequeños saben qué hacer. Pregúntales. Heredan la tierra. También tienes otros Bounds: unidos, conectados con un solo hilo. Pregúntale a tu Bound. Pregúntale a los niños.]]></string>
 <string id="530391"><![CDATA[¿Cuáles en particular?]]></string>
 <string id="530392"><![CDATA[Pregunte a mis parientes. Cada uno de ellos tiene su propia forma de sentir. Mi palabra es ésta: el Soul-and-a-Halves ya ha estado aquí. Su líder marginado, el guardián de las bestias, los débiles y los pequeños descendientes de Boddho deben tener una opinión al respecto.]]></string>
 <string id="530393"><![CDATA[Notkin? Le preguntaré, odonghe.]]></string>
@@ -17411,11 +17411,11 @@ Si sacrifico mi ofrenda, esa triste mujer que he convocado, entonces me converti
 Pero si cumplo la palabra que le di a mi padre y dejo vivir la ofrenda, esto significará que me he desviado del camino que fui elegido para seguir. No sólo rechazaré el destino que me espera a mí, sino también el del resto de mis parientes.
 
 Es hora de elegir.]]></string>
-<string id="530580"><![CDATA[De hecho, fue una plaga de sandbox. Los niños que jugaban allí debían haber regresado a casa después del funeral. ¿Un juego triste quizá les haya parecido una diversión apropiada, o tal vez simplemente sintieron que su infancia se les escapaba?
+<string id="530580"><![CDATA[Tal cual, fue una plaga de arenero. Los niños que jugaban allí debían haber ido camino a su casa después del funeral. ¿Un juego triste quizá les haya parecido una diversión apropiada, o tal vez simplemente sintieron que su infancia se les escapaba?
 
 De una forma u otra, el héroe... ¡el héroe ha sido amargamente engañado!
 
-Durante todo este tiempo, el héroe se tomó a sí mismo como un hombre vivo que intentaba rescatar a sus semejantes. Sin duda, esta creencia lo ha llenado de fervor; le ayudó a llegar a la final, e incluso a salir algo triunfante.
+Durante todo este tiempo, el héroe se tomó a sí mismo como un hombre vivo que intentaba rescatar a sus semejantes. Sin duda, esta creencia lo ha llenado de fervor; le ayudó a llegar al final, e incluso a salir algo triunfante.
 
 En vano, todo fue en vano. El héroe no era más que una marioneta que se esforzaba por ayudar a la población imaginaria de un pueblo que no era más que un dibujo.
 
@@ -20552,7 +20552,7 @@ Mark Immortell, el productor de los monstruos]]></string>
 <string id="534577"><![CDATA[Me escribiste y nada de lo dicho puede desautorizar eso…]]></string>
 <string id="534578"><![CDATA[¿Y qué? Quería que tuvieras una oportunidad más. Una opción para hacer una elección libre.]]></string>
 <string id="534579"><![CDATA[Te estás mintiendo a ti mismo. Conozco tu tipo de posesión.]]></string>
-<string id="534580"><![CDATA[Te creo. Quizás le dé alguna panacea a tu Atado.]]></string>
+<string id="534580"><![CDATA[Te creo. Quizás le dé alguna panacea a tu Bound.]]></string>
 <string id="534581"><![CDATA[El que tiene oídos, que nada oiga. El que tiene ojos, que no vea nada. ¿Realmente no he hecho suficientes milagros últimamente? ¿Realmente necesito demostrar mi valía ante ti? Como desées. Hazlo a tu manera. No busco obtener ningún beneficio de usted.]]></string>
 <string id="534582"><![CDATA[...Lo haces. Gracias.]]></string>
 <string id="534583"><![CDATA[No, no lo haces. Pero no estoy de humor para discutir.]]></string>
@@ -20749,7 +20749,7 @@ Mark Immortell, el productor de los monstruos]]></string>
 <string id="535278"><![CDATA[Me temo que este momento nunca llegará. ]]></string>
 <string id="535279"><![CDATA[Espero que tengas éxito.]]></string>
 <string id="535280"><![CDATA[Vive. Haz lo que debes.]]></string>
-<string id="535281"><![CDATA[Somos muy pocos ahora. Por supuesto, no lo lograré solo... Cada persona cuenta. ¿Sabes cuántos de nosotros hemos sobrevivido?]]></string>
+<string id="535281"><![CDATA[Somos muy pocos ahora. Por supuesto, no lo lograré sola... Cada persona cuenta. ¿Sabes cuántos de nosotros hemos sobrevivido?]]></string>
 <string id="535282"><![CDATA[No lo sé. Al menos no morirás... Y no me importa el resto.]]></string>
 <string id="535283"><![CDATA[Mi misión aquí aún no está completa. Habrá suficientes de ustedes.]]></string>
 <string id="535284"><![CDATA[Si no me cuidaras, ¿quién volvería a darle vida a nuestro pueblo? Tendré tantas cosas que hacer en cinco o diez años... ¡Gracias, gracias!]]></string>
@@ -20777,11 +20777,11 @@ Mark Immortell, el productor de los monstruos]]></string>
 <string id="535306"><![CDATA[¿Por qué elegiste a los marginados?]]></string>
 <string id="535307"><![CDATA[No es una causa, es un efecto. Han abandonado el Poliedro porque su destino está en otra parte. Los prisioneros de los sueños pueden construir, pero no gobernar. Además, hay que ser decidido, maduro e independiente para liberarse de la infancia. Sólo los niños más destacados pueden hacerlo.]]></string>
 <string id="535308"><![CDATA[¿He oído que querías fundar una nueva religión?]]></string>
-<string id="535309"><![CDATA[No lo hago. Todavía no entiendes quiénes son las maestras. Los niños también, y por eso siguen hablando de una religión. ¿Puede la religión ser inventada por un hombre? No es un juego.]]></string>
+<string id="535309"><![CDATA[No lo hago. Todavía no entiendes quiénes son las maestras. Los niños tampoco, por eso siguen hablando de una religión. ¿Puede la religión ser inventada por un hombre? No es un juego.]]></string>
 <string id="535310"><![CDATA[Difícilmente. Quiero dejar este lugar.]]></string>
 <string id="535311"><![CDATA[Sí. No es un juego.]]></string>
 <string id="535312"><![CDATA[Dime, ¿te quedarás con nosotros? ¿Gobernarás a los Kin como se suponía que debía hacerlo tu padre?]]></string>
-<string id="535313"><![CDATA[No estás siendo sincero. Sé más sobre creencias paganas que tú.]]></string>
+<string id="535313"><![CDATA[No estás siendo sincera. Sé más sobre creencias paganas que tú.]]></string>
 <string id="535314"><![CDATA[Sí. Me quedaré contigo.]]></string>
 <string id="535315"><![CDATA[Puedes irte con Aglaya, pero ¿qué eres para el mundo exterior? Soy un salvaje desagradable con ideas atrasadas, un compatriota sin futuro, un oportunista con un pasado sangriento. Cuando el primer enamoramiento se desvanezca, Aglaya te dará la espalda. Sólo os ha unido la locura de lo que estaba sucediendo aquí. Deberías quedarte con nosotros. Dirige a los Kin. Cuida a tu gente. Ya conoces las líneas.]]></string>
 <string id="535316"><![CDATA[Tienes razón. Conozco las líneas.]]></string>
@@ -20807,7 +20807,7 @@ Mark Immortell, el productor de los monstruos]]></string>
 <string id="535336"><![CDATA[Ya veo.]]></string>
 <string id="535337"><![CDATA[Un tallo tan delgado no será una buena base para el nuevo mundo…]]></string>
 <string id="535338"><![CDATA[Derribaré la Torre. Así es como produciré sangre preciosa desde debajo de la tierra.]]></string>
-<string id="535339"><![CDATA[lo haré.]]></string>
+<string id="535339"><![CDATA[Lo haré.]]></string>
 <string id="535340"><![CDATA[¿Es suficiente?]]></string>
 <string id="535341"><![CDATA[No. No tuve nada que ver con eso.]]></string>
 <string id="535342"><![CDATA[Efectivamente]]></string>
@@ -20824,7 +20824,7 @@ Mark Immortell, el productor de los monstruos]]></string>
 <string id="535353"><![CDATA[Espero que lo consigas.]]></string>
 <string id="535354"><![CDATA[Difícilmente, madre. Te las arreglarás solo muy bien.]]></string>
 <string id="535355"><![CDATA[Capella lo hizo. Ahora te convertirás en el capataz y en la persona más importante del clan. Todos seguirán tus palabras como lo hicieron con papá. Y siempre estaré a tu lado para que sepas que estamos todos juntos y que los Kin te quieren. ¡Eso es lo que ella me prometió!]]></string>
-<string id="535356"><![CDATA[¿Por qué estás tan feliz? Eras el único al que escuchaban antes. ¿Qué crees que pasa ahora?]]></string>
+<string id="535356"><![CDATA[¿Por qué estás tan feliz? Antes, eras a la única a la que escuchaban. ¿Qué crees que pasará ahora?]]></string>
 <string id="535357"><![CDATA[¡Ella no podría haber prometido algo así!]]></string>
 <string id="535358"><![CDATA[Me haré un poco a un lado, pero te ayudaré y te conectaré con todos. No molestaré a las nuevas Maestras aunque realmente quiera... Todo es diseño de Capella, aunque realmente no lo entiendo.]]></string>
 <string id="535359"><![CDATA[¡Y qué! Ella dijo que lo más probable es que estés de acuerdo porque así son tus líneas. Tú estás a cargo de todos nosotros, todos somos tu responsabilidad. ¡Y es lo mismo entonces! Tú y yo necesitamos reconstruir el Kin. Se marchitarán sin mí.]]></string>
@@ -20869,12 +20869,12 @@ Mark Immortell, el productor de los monstruos]]></string>
 <string id="535400"><![CDATA[Comencemos contigo. ¿Qué estás defendiendo?]]></string>
 <string id="535401"><![CDATA[No lo sé. Pregúntale a Capella.]]></string>
 <string id="535402"><![CDATA[Hoy es el último día. Hay que hacer la elección.]]></string>
-<string id="535403"><![CDATA[Sólo el Licenciado podrá convencer a las reinas del ajedrez de que la solución utópica es la elección correcta. Antes de asistir al Concilio final en la Catedral, tendrá que asegurarse de que sus Atados estén vivos. Ellos son: Georgiy, Victor y Maria Kaina, así como Peter y Andrey Stamatin.]]></string>
-<string id="535404"><![CDATA[Solo la Cambiante podrá explicar las ventajas de su solución paradójica a las Reinas del Ajedrez. Antes de asistir al Concilio final en la Catedral, querrá asegurarse de que sus Atados estén vivos. Ellos son: Bad Grief, Rubin, Aspity, Anna, Yulia, Lara, Alexander y Katerina.]]></string>
+<string id="535403"><![CDATA[Sólo el Licenciado podrá convencer a las reinas del ajedrez de que la solución utópica es la elección correcta. Antes de asistir al Concilio final en la Catedral, tendrá que asegurarse de que sus Bounds estén vivos. Ellos son: Georgiy, Victor y Maria Kaina, así como Peter y Andrey Stamatin.]]></string>
+<string id="535404"><![CDATA[Solo la Cambiante podrá explicar las ventajas de su solución paradójica a las Reinas del Ajedrez. Antes de asistir al Concilio final en la Catedral, querrá asegurarse de que sus Bounds estén vivos. Ellos son: Bad Grief, Rubin, Aspity, Anna, Yulia, Lara, Alexander y Katerina.]]></string>
 <string id="535405"><![CDATA[Los Bound del Licenciado están sanos y salvos. Que eso lo consuele. Debería tener tiempo suficiente para preparar su argumento para el procedimiento.]]></string>
-<string id="535406"><![CDATA[Los Atados del Cambiante están vivos y bien. Que ella encuentre consuelo en eso. Debería tener tiempo suficiente para preparar su argumento para el procedimiento.]]></string>
+<string id="535406"><![CDATA[Los Bounds del Cambiante están vivos y bien. Que ella encuentre consuelo en eso. Debería tener tiempo suficiente para preparar su argumento para el procedimiento.]]></string>
 <string id="535411"><![CDATA[Hemos asistido a un funeral. De hecho, acabamos de regresar de un cementerio.]]></string>
-<string id="535412"><![CDATA[Oh, ya veo... Entonces, ¿quién murió contigo?]]></string>
+<string id="535412"><![CDATA[Oh, ya veo... Entonces, ¿quién se te murió?]]></string>
 <string id="535413"><![CDATA[No te lo diremos. De hecho, de todos modos todo son sólo fantasías. ¡Nadie ha muerto! Simplemente no funciona así. No existe la muerte, ¿entiendes?]]></string>
 <string id="535414"><![CDATA[Pero ¿por qué necesitabas muñecas? ¿No podrías haber jugado sin nosotros?]]></string>
 <string id="535415"><![CDATA[Tu juego funciona exactamente así.]]></string>
@@ -21039,10 +21039,10 @@ En cuanto a los poderes fácticos, se arrepentirán de su hipocresía. Estaban t
 
 Es cierto que la ciudad es poco más que una máquina que bombea muerte desde las mismas entrañas del infierno. Ésta, sin embargo, es la única ciudad donde posiblemente podría existir el Poliedro. Que las cosas sigan como están. La constante amenaza de una pandemia es un precio justo a pagar por la posibilidad de que aparezca algo como esta Torre.]]></string>
 <string id="535688"><![CDATA[Este es el último día que nos queda. Hay que hacer la elección.]]></string>
-<string id="535689"><![CDATA[Solo el Arúspice podrá convencer a las Reinas del Ajedrez de que su solución es el camino correcto. Antes de asistir al Concilio final en la Catedral, tendrá que asegurarse de que sus Atados estén vivos. Ellos son: Murky, Sticky, Notkin, Grace, Taya Tycheek, Khan y Capella.]]></string>
-<string id="535690"><![CDATA[Solo la Cambiante podrá explicar las ventajas de su solución paradójica a las Reinas del Ajedrez. Antes de asistir al Concilio final en la Catedral, querrá asegurarse de que sus Atados estén vivos. Ellos son: Bad Grief, Rubin, Aspity, Anna, Yulia, Lara, Alexander y Katerina.]]></string>
-<string id="535691"><![CDATA[Los Atados del Arúspice están sanos y salvos. Que eso lo consuele. Debería tener tiempo suficiente para preparar su argumento para el procedimiento.]]></string>
-<string id="535692"><![CDATA[Los Atados de la Cambiante están vivos y bien. Que ella encuentre consuelo en eso. Debería tener tiempo suficiente para preparar su argumento para el procedimiento.]]></string>
+<string id="535689"><![CDATA[Solo el Arúspice podrá convencer a las Reinas del Ajedrez de que su solución es el camino correcto. Antes de asistir al Concilio final en la Catedral, tendrá que asegurarse de que sus Bounds estén vivos. Ellos son: Murky, Sticky, Notkin, Grace, Taya Tycheek, Khan y Capella.]]></string>
+<string id="535690"><![CDATA[Solo la Cambiante podrá explicar las ventajas de su solución paradójica a las Reinas del Ajedrez. Antes de asistir al Concilio final en la Catedral, querrá asegurarse de que sus Bounds estén vivos. Ellos son: Bad Grief, Rubin, Aspity, Anna, Yulia, Lara, Alexander y Katerina.]]></string>
+<string id="535691"><![CDATA[Los Bounds del Arúspice están sanos y salvos. Que eso lo consuele. Debería tener tiempo suficiente para preparar su argumento para el procedimiento.]]></string>
+<string id="535692"><![CDATA[Los Bounds de la Cambiante están vivos y bien. Que ella encuentre consuelo en eso. Debería tener tiempo suficiente para preparar su argumento para el procedimiento.]]></string>
 <string id="535693"><![CDATA[¿Recuerdas la carta que te envié? El tiempo ha llegado.
 
 La victoria a la que intento llevaros no es posible gracias a la razón. Es posible sólo por la fe. No puedes probarlo, sólo puedes sentirlo en lo más profundo de tu corazón.
@@ -24297,7 +24297,7 @@ Licenciado Dankovsky]]></string>
 
 Alabé al cielo por mi salvación y luego volví mi pensamiento a mis amados hijos, los que me habían sido confiados. Es muy difícil llegar a ellos, sin embargo, así que no tengo otra opción que cuidar del otro Bound. Ya tomé algunos de ellos en mi barrio, así que no debes preocuparte por ellos.
 
-Puse mis manos sobre los hombros de mis Atados y fui tras de ti. Te he estado buscando todo el día. Ay, hoy te has escabullido, como siempre. Mis maravillosas manos hicieron demasiado trabajo hoy, ya no me servirán más... Todo estará bien. Te veré pronto, querida.]]></string>
+Puse mis manos sobre los hombros de mis Bounds y fui tras de ti. Te he estado buscando todo el día. Ay, hoy te has escabullido, como siempre. Mis maravillosas manos hicieron demasiado trabajo hoy, ya no me servirán más... Todo estará bien. Te veré pronto, querida.]]></string>
 <string id="538962"><![CDATA[El escalofrío me despertó hoy...]]></string>
 <string id="538963"><![CDATA[...realiza una visita a la Catedral. Siento que me necesitan allí, de lo contrario podría pasar lo peor... ¿Dónde estás? ¿Qué tienes en mente? He perdido tu rastro una vez más.
 
@@ -24751,10 +24751,10 @@ No, no me respondas. Solo recuerda que siempre estaré a tu lado.
 
 Y estaré esperando.]]></string>
 <string id="539365"><![CDATA[Este es el último día que nos queda. Hay que hacer la elección.]]></string>
-<string id="539366"><![CDATA[Sólo el Licenciado podrá convencer a las Reinas del Ajedrez de que la solución utópica es la mejor. Antes de asistir al Concilio final en la Catedral, tendrá que asegurarse de que sus Atados estén vivos. Ellos son: Georgiy, Victor y Maria Kaina, así como Peter y Andrey Stamatin.]]></string>
+<string id="539366"><![CDATA[Sólo el Licenciado podrá convencer a las Reinas del Ajedrez de que la solución utópica es la mejor. Antes de asistir al Concilio final en la Catedral, tendrá que asegurarse de que sus Bounds estén vivos. Ellos son: Georgiy, Victor y Maria Kaina, así como Peter y Andrey Stamatin.]]></string>
 <string id="539367"><![CDATA[Los Bound del Licenciado están sanos y salvos. Que eso lo consuele. Debería tener tiempo suficiente para preparar su argumento para el procedimiento.]]></string>
-<string id="539368"><![CDATA[Solo el Arúspice podrá convencer a las Reinas del Ajedrez de que su solución es el camino correcto. Antes de asistir al Concilio final en la Catedral, tendrá que asegurarse de que sus Atados estén vivos. Ellos son: Murky, Sticky, Notkin, Grace, Taya Tycheek, Khan y Capella.]]></string>
-<string id="539369"><![CDATA[Los Atados del Arúspice están sanos y salvos. Que eso lo consuele. Debería tener tiempo suficiente para preparar su argumento para el procedimiento.]]></string>
+<string id="539368"><![CDATA[Solo el Arúspice podrá convencer a las Reinas del Ajedrez de que su solución es el camino correcto. Antes de asistir al Concilio final en la Catedral, tendrá que asegurarse de que sus Bounds estén vivos. Ellos son: Murky, Sticky, Notkin, Grace, Taya Tycheek, Khan y Capella.]]></string>
+<string id="539369"><![CDATA[Los Bounds del Arúspice están sanos y salvos. Que eso lo consuele. Debería tener tiempo suficiente para preparar su argumento para el procedimiento.]]></string>
 <string id="539370"><![CDATA[Clara!
 
 Queremos decirte adiós. ¡Despedida! Has sido el más interesante para jugar.
@@ -25392,9 +25392,9 @@ Porque soy el mejor y el único amigo que aún tienes... Somos muy parecidos.
 <string id="540005"><![CDATA[Vive, Vlad. Creo que serás el marido ideal para María. Era obvio que se suponía que los Kain y los Olgimsky se unirían algún día.]]></string>
 <string id="540006"><![CDATA[Vive, Peter. Trabaja y sueña. Toma la mano de Andrey, o puede que haga algo malo... ]]></string>
 <string id="540007"><![CDATA[Mirarte me asusta. Me parece como si una criatura inimaginable que vive en un abismo lleno de estrellas me mira a través de los ojos de Víctor...]]></string>
-<string id="540014"><![CDATA[Que se destruya el Acuerdo. Pero no dispares a la torre de cristal. Debe sobrevivir al temblor de un bombardeo de artillería.]]></string>
+<string id="540014"><![CDATA[Que se destruya el asentamiento. Pero no dispares a la torre de cristal. Debe sobrevivir al temblor de un bombardeo de artillería.]]></string>
 <string id="540015"><![CDATA[Me sorprende escuchar eso de usted... ¿Cómo puede demostrar que es una dirección sabia a seguir?]]></string>
-<string id="540016"><![CDATA[Testamento de licenciatura. Yo confío en él. Y no sé nada sobre la Torre excepto que contiene la vida que mi padre me ha ordenado preservar.]]></string>
+<string id="540016"><![CDATA[Por voluntad del Licenciado. Confío en él. Y no sé nada sobre la Torre excepto que contiene la vida que mi padre me ha ordenado preservar.]]></string>
 <string id="540017"><![CDATA[Ahora estaremos hablando con usted, Licenciado Dankovsky. ¡Artemy Burakh! ¿Estás seguro de que no tienes nada más que decirme?]]></string>
 <string id="540018"><![CDATA[Estoy seguro, general. Ya hice mi elección.]]></string>
 <string id="540019"><![CDATA[Que se destruya el Asentamiento, pero no hay razón para dañar el Poliedro. Los supervivientes encontrarán refugio allí hasta que los vacunemos y la epidemia desaparezca.]]></string>
@@ -25823,11 +25823,11 @@ María]]></string>
 <string id="540517"><![CDATA[...Entonces, ¿quién murió en ti?]]></string>
 <string id="540518"><![CDATA[¡Nadie lo hizo! ¡Nadie lo hace nunca! ¿Por qué pregunta sobre eso…]]></string>
 <string id="540519"><![CDATA[¡Silencio, silencio, no hay necesidad de llorar! Oh, vamos…]]></string>
-<string id="540520"><![CDATA[¿Ves, muñeca? Fuimos nosotros, hemos arreglado todo esto. ¡Resultó ser genial! Nunca antes habíamos creado un mundo como este. Es mágico. Lo plantamos y esto es lo que ha crecido. Pero ahora hay podredumbre por todas partes.]]></string>
-<string id="540521"><![CDATA[¿Me estás llamando muñeca, cachorro?]]></string>
-<string id="540522"><![CDATA[¡Oye, no me insultes! ¡Tómalo con calma! Vale, no fui yo quien te creó, pero te he tenido desde que tenía tres años. Eres una muñeca, ¡pregúntale a cualquiera! Tu nombre es Arúspice. Eres un destripador. Siempre eres un chico malo cuando jugamos. ¡Tu cara está toda magullada y hecha un desastre!]]></string>
+<string id="540520"><![CDATA[¿Ves, muñeco? Fuimos nosotros, hemos arreglado todo esto. ¡Resultó ser genial! Nunca antes habíamos creado un mundo como este. Es mágico. Lo plantamos y esto es lo que ha crecido. Pero ahora hay podredumbre por todas partes.]]></string>
+<string id="540521"><![CDATA[¿Me estás llamando muñeco, mocoso?]]></string>
+<string id="540522"><![CDATA[¡Oye, no me insultes! ¡Tómalo con calma! Vale, no fui yo quien te creó, pero te he tenido desde que tenía tres años. Eres un muñeco, ¡pregúntale a cualquiera! Tu nombre es Arúspice. Eres un destripador. Siempre eres un chico malo cuando jugamos. ¡Tu cara está toda magullada y hecha un desastre!]]></string>
 <string id="540523"><![CDATA[Sí, eso es cierto... el dolor de cabeza es desgarrador. ¿Qué tal si te arruino la cara?]]></string>
-<string id="540524"><![CDATA[¿En serio? ¿Entonces no eres una muñeca? Adelante, golpéame entonces. Bueno, ¿por qué estás ahí parado? ¡Te reto! ¡Pégame con todo lo que tengas!]]></string>
+<string id="540524"><![CDATA[¿En serio? ¿Entonces no eres un muñeco? Adelante, golpéame entonces. Bueno, ¿por qué estás ahí parado? ¡Te reto! ¡Pégame con todo lo que tengas!]]></string>
 <string id="540525"><![CDATA[Te arrepentirás, lo juro.]]></string>
 <string id="540526"><![CDATA[¿Qué debo hacer ahora?]]></string>
 <string id="540527"><![CDATA[¡Deja de quejarte, levántate y ayúdanos a arreglar la ciudad! Lo estabas haciendo bien... Sólo queda un poquito para que termine el juego. Es hora de que nos vayamos a casa de todos modos.]]></string>
@@ -26361,7 +26361,7 @@ Lara Ravel]]></string>
 <string id="541131"><![CDATA[No necesito nada más…]]></string>
 <string id="541166"><![CDATA[Clara está aquí... ¡Hola, Clara! Entonces, ¿ya no eres una Cambiante?]]></string>
 <string id="541225"><![CDATA[¡Alguna cosita! Tengo nueve y los detesto más.]]></string>
-<string id="541260"><![CDATA[Derecha. Lo olvidé.]]></string>
+<string id="541260"><![CDATA[Perfecto. Lo olvidé.]]></string>
 <string id="541281"><![CDATA[Revísame. ¿Soy realmente la enfermedad? ]]></string>
 <string id="541282"><![CDATA[No, tú no... Por extraño que parezca, debo decir.]]></string>
 <string id="541283"><![CDATA[Entonces déjame ir.]]></string>
@@ -27569,7 +27569,7 @@ Tus benefactores]]></string>
 <string id="542614"><![CDATA[¡Eso es una tontería!]]></string>
 <string id="542615"><![CDATA[Simon también falló. Por eso eres tú quien toma las decisiones y no él... ¿O eres él ahora?]]></string>
 <string id="542616"><![CDATA[¿Estás delirando?]]></string>
-<string id="542617"><![CDATA[Nadie es más similar que tú y Simon. Incluso nosotros, los Atados, somos meros juguetes, mientras que vosotros sois Humanos. Con H mayúscula. Como nunca podría haber dado a luz incluso si me hubiera casado.]]></string>
+<string id="542617"><![CDATA[Nadie es más similar que tú y Simon. Incluso nosotros, los Bounds, somos meros juguetes, mientras que vosotros sois Humanos. Con H mayúscula. Como nunca podría haber dado a luz incluso si me hubiera casado.]]></string>
 <string id="542618"><![CDATA[¿Quieres?]]></string>
 <string id="542619"><![CDATA[Más o menos... En realidad no, pero a menudo pienso en ello por la noche. Ya no tiene sentido ocultar mis pecados. Pero todo eso fue una quimera. Adelante, haz lo que debes. Pobrecito, lo siento mucho por ti. No quisiera cargar con tu carga. Es aterrador de soportar, pero sería un error rechazarlo.]]></string>
 <string id="542620"><![CDATA[¡Por favor, eso no es ningún pecado! Mereces consuelo.]]></string>
@@ -27636,7 +27636,7 @@ Tus benefactores]]></string>
 <string id="542681"><![CDATA[¿Qué pasa si se niegan a ser donantes?]]></string>
 <string id="542683"><![CDATA[No me refería a eso.]]></string>
 <string id="542684"><![CDATA[¿Qué, entonces? ¿Cuál es tu opinión sobre todo esto?]]></string>
-<string id="542685"><![CDATA[No lo harán. Una vez que hayan dado su consentimiento, cumplirán su palabra. De lo contrario, estar Atados no significaría nada.]]></string>
+<string id="542685"><![CDATA[No lo harán. Una vez que hayan dado su consentimiento, cumplirán su palabra. De lo contrario, estar Unidos no significaría nada.]]></string>
 <string id="542686"><![CDATA[¿Entonces crees que todo lo que tengo que hacer es ponerles las manos encima una vez y estará hecho?]]></string>
 <string id="542687"><![CDATA[¿Cuánto tiempo nos durará una persona?]]></string>
 <string id="542688"><![CDATA[No lo sé... Posiblemente para siempre. Se dice que la supervivencia del pueblo depende de los siete justos. Tú mismo dijiste que siete serían suficientes.]]></string>
