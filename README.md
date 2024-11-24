@@ -19,12 +19,16 @@ por
 
 <pre>StringsType = FS</pre>
 
-# Guía de compilación
+# Guía de compilación manual
 1. Instalar [python](https://www.python.org/downloads/) (la última versión disponible, 3.13.0 a la fecha nov-2024)
 2. **Recordar o copiar directorio de instalacion**. Usualmente se instalará en: <pre>C:\Users\\_USER_\AppData\Local\Programs\Python\Python313 (_USER_ es el usuario windows)</pre>
 3. Agregar el directorio de instalación de python a la variable PATH de windows (*)
 4. Dirigirse al directorio _REPO_ y abrir un Terminal de windows (Boton derecho y seleccionar 'Abrir en Terminal')
 5. Ejecutar <pre>> .\compile.bat </pre>
+
+El script actualizará el fichero 'Strings/main.dat'.
+
+El directorio 'Strings' ahora estará listo para ser copiado al directorio '_GAME_/data'
 
 ## (*) Actualizar PATH de windows 
 1. En explorador de directorios de windows, Boton Derecho sobre 'Este Equipo' -> 'Propiedades' -> 'Configuracion avanzada del sistema' -> 'Variables de entorno'
