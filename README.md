@@ -4,16 +4,17 @@ Traducción al español del juego Pathologic Classic HD
 # Instrucciones
 Directorios:
 -  _**REPO**_ : directorio descomprimido del repositorio **pathologic-classic-hd-es**
--  _**GAME**_ : directorio de instalación del juego
+-  _**GAME**_ : directorio de instalación del juego (*)
 
 Pasos:
 - Descargar repositorio como archivo ZIP (*) y descomprimir.
-- Ubicar el directorio de instalacion del juego (**).
+- El directorio anterior es el denominado _**REPO**_.
+- Dentro del directorio _**REPO**_ existe el directorio 'Strings'
 - Copiar directorio '_**REPO**_/Strings' dentro del directorio '_**GAME**_/data'
 
-<sub>(*) Click sobre el boton 'Code', luego click en 'Download ZIP'</sub>
+<sub>(*) En steam, ir a Biblioteca, boton derecho sobre el juego -> Propiedades -> Archivos Instalados -> Explorar</sub>
 
-<sub>(**) En steam, ir a Biblioteca, boton derecho sobre el juego -> Propiedades -> Archivos Instalados -> Explorar</sub>
+<sub>(**) Click sobre el boton 'Code', luego click en 'Download ZIP'</sub>
 
 <br>
 
@@ -39,6 +40,9 @@ El script actualizará el fichero 'Strings/main.dat'.
 El directorio 'Strings' ahora estará listo para ser copiado al directorio '_**GAME**_/data'
 
 # Enlaces y Agradecimientos
-Gracias a **somevideoguy** por publicar los scripts en python que permitió esta traducción.
+Gracias a [**somevideoguy**](https://github.com/somevideoguy/pathologic) por publicar los scripts en python que permitió esta traducción.
 
-Repositorio: https://github.com/somevideoguy/pathologic
+Esta traducción fue posible gracias a las herramientas de libre acceso:
+- [Python 3.13.0](https://www.python.org/downloads/)
+- [Kotlinc 2.1.0](https://kotlinlang.org/docs/command-line.html)
+
