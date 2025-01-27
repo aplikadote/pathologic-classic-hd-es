@@ -14,7 +14,8 @@ El resultado final deberia verse así:
 
 <br>
 
-Si lo anterior no funciona inmediatamente, verificar que el directorio 'Strings' este en la ubicación correcta.
+Si lo anterior no funciona inmediatamente, verificar que el directorio 'Strings' esté en la ubicación correcta.
+
 Si no fuera el caso, dentro del archivo '_**GAME**_\data\config.ini', modificar la línea 
 
 <pre>StringsType = VFS</pre>
