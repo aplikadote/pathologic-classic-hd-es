@@ -16,11 +16,11 @@ El resultado final deberia verse así:
 
 Si lo anterior no funciona inmediatamente, verificar que el directorio 'Strings' esté en la ubicación correcta.
 
-Si el problema persiste, dentro del archivo '_**GAME**_\data\config.ini', modificar la línea 
+Si el problema persiste, dentro del directorio 'data' existe un archivo llamado 'config.ini'. Modificar la línea: 
 
 <pre>StringsType = VFS</pre>
 
-por
+por:
 
 <pre>StringsType = FS</pre>
 
