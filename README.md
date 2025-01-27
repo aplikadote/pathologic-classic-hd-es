@@ -4,10 +4,13 @@ Traducción al español del juego Pathologic Classic HD
 # Instrucciones
 Descargar el repositorio como archivo ZIP ('Code' -> 'Download ZIP') y descomprimir.
 
-Copiar el directorio 'Strings' dentro del directorio 'data' de la carpeta de instalación del juego (En Steam, boton derecho sobre el juego -> Propiedades -> Archivos Instalados -> Explorar).
+Copiar el directorio 'Strings' dentro del directorio 'data' de la carpeta de instalación del juego.
 
-El resultado final deberia verse como en la siguiente imagen:
-![Resultado](readme01.png)
+Para encontrar el directorio de instalación del juego, ir a la biblioteca de Steam, boton derecho sobre el juego -> Propiedades -> Archivos Instalados -> Explorar.
+
+El resultado final deberia verse así:
+
+<img src="readme01.png" width="750">
 
 <br>
 
