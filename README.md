@@ -2,42 +2,27 @@
 Traducción al español del juego Pathologic Classic HD
 
 # Instrucciones
-Directorios:
--  _**REPO**_ : directorio descomprimido del repositorio **pathologic-classic-hd-es**
--  _**GAME**_ : directorio de instalación del juego (*)
+Descargar el repositorio como archivo ZIP ('Code' -> 'Download ZIP') y descomprimir.
 
-Pasos:
-- Descargar repositorio como archivo ZIP (*) y descomprimir.
-- El directorio anterior es el denominado _**REPO**_.
-- Dentro del directorio _**REPO**_ existe el directorio 'Strings'
-- Copiar directorio '_**REPO**_/Strings' dentro del directorio '_**GAME**_/data'
+Copiar el directorio 'Strings' dentro del directorio 'data' de la carpeta de instalación del juego.
 
-<sub>(*) En steam, ir a Biblioteca, boton derecho sobre el juego -> Propiedades -> Archivos Instalados -> Explorar</sub>
+Para encontrar el directorio de instalación del juego, ir a la biblioteca de Steam, boton derecho sobre el juego -> Propiedades -> Archivos Instalados -> Explorar.
 
-<sub>(**) Click sobre el boton 'Code', luego click en 'Download ZIP'</sub>
+El resultado final deberia verse así:
+
+<img src="readme01.png" width="750">
 
 <br>
 
-Si lo anterior no funciona inmediatamente
-Dentro del archivo '_**GAME**_\data\config.ini', modificar la línea 
+Si lo anterior no funciona inmediatamente, verificar que el directorio 'Strings' esté en la ubicación correcta.
+
+Si el problema persiste, dentro del directorio 'data' existe un archivo llamado 'config.ini'. Modificar la línea: 
 
 <pre>StringsType = VFS</pre>
 
-por
+por:
 
 <pre>StringsType = FS</pre>
-
-# Guía de compilación manual
-1. Instalar [python](https://www.python.org/downloads/) (la última versión disponible, 3.13.0 a la fecha nov-2024)
-2. Obtener la ultima versión del proyecto **pathologic-classic-hd-es** (descargar como zip)
-4. Ir al directorio _**REPO**_ y abrir un Terminal de windows (***)
-5. Ejecutar <pre>> .\compile.bat </pre>
-
-<sub>(***) Boton derecho en un lugar sin iconos de directorio o archivos y seleccionar 'Abrir en Terminal'</sub>
-
-El script actualizará el fichero 'Strings/main.dat'.
-
-El directorio 'Strings' ahora estará listo para ser copiado al directorio '_**GAME**_/data'
 
 # Enlaces y Agradecimientos
 Gracias a [**somevideoguy**](https://github.com/somevideoguy/pathologic) por publicar los scripts en python que permitió esta traducción.
